@@ -1,13 +1,16 @@
 import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from common import log_utills
 
 current_path = os.path.dirname(__file__)
 driver_path = os.path.join(current_path, '../webdriver/chromedriver')
 
 
+
 class LoginPage:
     def __init__(self):
+        self.logger = log_utills.log
         self.driver = webdriver.Chrome(executable_path=driver_path)
         self.driver.implicitly_wait(10)
         self.driver.maximize_window()
@@ -19,16 +22,20 @@ class LoginPage:
 
     def input_username(self, username):  # 方法 == 》 控件的操作
         self.username_input_box.send_keys(username)
+        self.logger.info('登录用户名为:%s' % username)
 
     def input_password(self, password):
         self.password_input_box.send_keys(password)
+        self.logger.info('登录密码为:%s' % password)
+
 
     def click_login(self):
         self.login_button.click()
 
 
+login = LoginPage()
+
 if __name__ == '__main__':
-    login = LoginPage()
     login.input_username('test01')
     login.input_password('newdream123')
     login.click_login()
