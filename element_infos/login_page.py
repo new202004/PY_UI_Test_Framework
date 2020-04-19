@@ -1,8 +1,7 @@
-import os
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from common import log_utills
 from common.base_page import BasePage
+from common import login
+from common.config_value import config
+from common import set_driver
 
 
 class LoginPage(BasePage):
@@ -33,34 +32,10 @@ class LoginPage(BasePage):
         self.click(self.login_button)
 
 
-        # self.driver.implicitly_wait(10)
-        # self.driver.maximize_window()
-        # self.driver.get('http://47.107.178.45/zentao/www/index.php?m=user&f=login')
-        # self.username_input_box = self.driver.find_element(By.XPATH, '//input[@name="account"]')  # 属性  ==》 页面上的控件
-        # self.password_input_box = self.driver.find_element(By.XPATH, '//input[@name="password"]')
-        # self.login_button = self.driver.find_element(By.XPATH, '//button[@id="submit"]')
-        # self.keep_login_check_box = self.driver.find_element(By.XPATH, '//input[@id="keepLoginon"]')
-
-    # def input_username(self, username):  # 方法 == 》 控件的操作
-    #     self.driver.find_element()
-    #     self.username_input_box.send_keys(username)
-    #     self.logger.info('登录用户名为:%s' % username)
-    #
-    # def input_password(self, password):
-    #     self.password_input_box.send_keys(password)
-    #     self.logger.info('登录密码为:%s' % password)
-    #
-    # def click_login(self):
-    #     self.login_button.click()
-
-
 if __name__ == '__main__':
-    current_path = os.path.dirname(__file__)
-    driver_path = os.path.join(current_path, '../webdriver/chromedriver')
-    logger = log_utills.logger
-    driver = webdriver.Chrome(executable_path=driver_path)
-    login = LoginPage(driver)
-    login.open_url('http://47.107.178.45/zentao/www/index.php?m=user&f=login')
-    login.input_username('test01')
-    login.input_password('newdream123')
-    login.click_login()
+    driver = set_driver.set_driver()
+    # 测试用例一：登录成功
+    login.test_login(config.zantao_url, config.user_name, config.password, driver)
+    # 测试用例二：登录失败
+    driver = set_driver.set_driver()
+    login.test_login(config.zantao_url, config.user_name, (config.password + '1'), driver)
