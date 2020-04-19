@@ -9,7 +9,7 @@ class MainPage:
         login_page.login.input_username('test01')
         login_page.login.input_password('newdream123')
         login_page.login.click_login()
-        self.logger = log_utills.log
+        self.logger = log_utills.logger
 
         self.driver = login_page.login.driver
         self.company_show_box = self.driver.find_element(By.XPATH, '//h1[@id="companyname"]')

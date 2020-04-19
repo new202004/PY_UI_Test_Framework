@@ -1,7 +1,7 @@
 import os
 import logging
 current_path = os.path.dirname(__file__)  # 获取路径
-log_path = os.path.join(current_path, '../logs/test.log')
+log_path = os.path.join(current_path, '../logs/log.txt')
 
 
 class LogUtils:
@@ -25,7 +25,7 @@ class LogUtils:
         self.logger.error(message)
 
 
-log = LogUtils()
+logger = LogUtils()
 
 
 if __name__ == '__main__':
