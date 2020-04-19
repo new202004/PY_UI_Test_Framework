@@ -73,8 +73,11 @@ class BasePage:
         text = self.find_element(element_info).text
         logger.info('%s对象的文本信息为【%s】' % (element_info['element_name'], text))
 
+    def switch_to_frame(self, frame):
+        self.driver.switch_to.frame(frame)
 
-
+    def switch_to_default_content(self):
+        self.driver.switch_to.default_content()
 
 
 

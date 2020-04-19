@@ -75,12 +75,12 @@ class MainPage(BasePage):
         self.click(self.forget_password_menu)
 
     def change_password(self, original_password, password1, password2):
-        self.driver.switch_to.frame('iframe-triggerModal')
+        self.switch_to_frame('iframe-triggerModal')
         self.input(self.forget_password_original_password, original_password)
         self.input(self.forget_password_password1, password1)
         self.input(self.forget_password_password2, password2)
         self.click(self.forget_password_save_button)
-        self.driver.switch_to.default_content()
+        self.switch_to_default_content()
 
     def logout(self):
         self.click(self.logout_menu)
