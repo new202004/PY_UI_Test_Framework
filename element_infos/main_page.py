@@ -14,7 +14,7 @@ class MainPage:
         self.driver = login_page.login.driver
         self.company_show_box = self.driver.find_element(By.XPATH, '//h1[@id="companyname"]')
         self.my_zone_menu = self.driver.find_element(By.XPATH, '//li[@data-id="my"]')
-        self.product_menu = self.driver.find_element(By.XPATH, '//a[@href="/zentao/www/index.php?m=product&f=index&locate=no"]')
+        self.product_menu = self.driver.find_element(By.XPATH, '//li[@data-id="product"]')
         self.username_show_span = self.driver.find_element(By.XPATH, '//span[@class="user-name"]')
 
     def get_company_name(self):
@@ -30,15 +30,14 @@ class MainPage:
         self.product_menu.click()
 
     def get_user_name(self):
-        value = self.username_show_span.text()
-        self.logger.info('登录用户名称为:%s' % value)
-        return value
+        text = self.username_show_span.text
+        self.logger.info('登录用户名称为:%s' % text)
+        return text
 
 
 if __name__ == '__main__':
     main_page = MainPage()
     company_name = main_page.get_company_name()
     main_page.goto_myzone()
-    # time.sleep(3)
-    # main_page.goto_product()
+    main_page.goto_product()
     username_text = main_page.get_user_name()
