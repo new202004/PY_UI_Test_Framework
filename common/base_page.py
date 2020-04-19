@@ -1,6 +1,3 @@
-import os
-import time
-
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -56,15 +53,33 @@ class BasePage:
 
         # WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.ID, 'kw')))
 
+    # 点击
     def click(self, element_info):
-        locator_element_name = element_info['element_name']
         self.find_element(element_info).click()
-        logger.info('%s点击操作成功' % locator_element_name)
+        logger.info('%s点击操作成功' % element_info['element_name'])
 
+    # 输入内容
     def input(self, element_info, content):
-        locator_element_name = element_info['element_name']
         self.find_element(element_info).send_keys(content)
-        logger.info('%s输入内容【%s】' % (locator_element_name, content))
+        logger.info('%s输入内容【%s】' % (element_info['element_name'], content))
+
+    # 获取属性值
+    def get_attribute(self, element_info):
+        value = self.find_element(element_info).get_attribute('title')
+        logger.info('%s属性值为【%s】' % (element_info['element_name'], value))
+
+    # 获取文本信息
+    def get_text(self, element_info):
+        text = self.find_element(element_info).text
+        logger.info('%s对象的文本信息为【%s】' % (element_info['element_name'], text))
+
+
+
+
+
+
+
+
 
 
 
