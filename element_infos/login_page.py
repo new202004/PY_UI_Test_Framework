@@ -2,9 +2,11 @@ from common.base_page import BasePage
 from common import login
 from common.config_value import config
 from common import set_driver
-from common.element_data_utills import get_page_info
+from common.element_yaml_utills import ElementYamlData
+# from common.element_data_utills import get_page_info
 
-elements = get_page_info('login_page')
+# elements = get_page_info('login_page')
+elements = ElementYamlData('login_page').read_yaml()
 
 
 class LoginPage(BasePage):
