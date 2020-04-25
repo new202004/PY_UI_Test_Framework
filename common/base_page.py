@@ -44,8 +44,7 @@ class BasePage:
         elif locator_type_name == 'XPATH':
             locator_type = By.XPATH
 
-        logger.info('%s元素识别成功' % locator_element_name)
-
+        logger.info('%s：  元素识别成功' % locator_element_name)
         elment = WebDriverWait(self.driver, locator_timeout)\
             .until(lambda x: x.find_element(locator_type, locator_value_info))
 
@@ -56,22 +55,22 @@ class BasePage:
     # 点击
     def click(self, element_info):
         self.find_element(element_info).click()
-        logger.info('%s点击操作成功' % element_info['element_name'])
+        logger.info('%s：  点击操作成功' % element_info['element_name'])
 
     # 输入内容
     def input(self, element_info, content):
         self.find_element(element_info).send_keys(content)
-        logger.info('%s输入内容【%s】' % (element_info['element_name'], content))
+        logger.info('%s：  输入内容【%s】' % (element_info['element_name'], content))
 
     # 获取属性值
     def get_attribute(self, element_info):
         value = self.find_element(element_info).get_attribute('title')
-        logger.info('%s属性值为【%s】' % (element_info['element_name'], value))
+        logger.info('%s：  属性值为【%s】' % (element_info['element_name'], value))
 
     # 获取文本信息
     def get_text(self, element_info):
         text = self.find_element(element_info).text
-        logger.info('%s对象的文本信息为【%s】' % (element_info['element_name'], text))
+        logger.info('%s：  对象的文本信息为【%s】' % (element_info['element_name'], text))
 
     def switch_to_frame(self, frame):
         self.driver.switch_to.frame(frame)

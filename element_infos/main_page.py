@@ -2,55 +2,25 @@ from common import login
 from common.config_value import config
 from common import set_driver
 from common.base_page import BasePage
+from common.element_data_utills import get_page_info
+
+elements = get_page_info('main_page')
 
 
 class MainPage(BasePage):
     def __init__(self, driver):
         super().__init__(driver)
-        self.company_show_box = {'element_name': '公司名称',
-                                 'locator_type': 'XPATH',
-                                 'locator_value': '//h1[@id="companyname"]',
-                                 'timeout': 3}
-        self.my_zone_menu = {'element_name': '我的地盘',
-                             'locator_type': 'XPATH',
-                             'locator_value': '//li[@data-id="my"]',
-                             'timeout': 3}
-        self.product_menu = {'element_name': '项目',
-                             'locator_type': 'XPATH',
-                             'locator_value': '//li[@data-id="product"]',
-                             'timeout': 3}
-        self.username_show_span = {'element_name': '用户名称',
-                                   'locator_type': 'XPATH',
-                                   'locator_value': '//span[@class="user-name"]',
-                                   'timeout': 3}
-        self.logout_menu = {'element_name': '签退',
-                            'locator_type': 'XPATH',
-                            'locator_value': '//a[@id="signOut"]',
-                            'timeout': 3}
-        self.zentao_vaesion = {'element_name': '禅道版本',
-                               'locator_type': 'XPATH',
-                               'locator_value': '//a[@href="https://www.zentao.net"]',
-                               'timeout': 3}
-        self.forget_password_menu = {'element_name': '忘记密码',
-                                     'locator_type': 'XPATH',
-                                     'locator_value': '//a[@href="/biz/my-changepassword.html?onlybody=yes"]',
-                                     'timeout': 3}
-        self.forget_password_original_password = {'element_name': '修改密码——原密码',
-                                                  'locator_type': 'XPATH',
-                                                  'locator_value': '//input[@id="originalPassword"]',
-                                                  'timeout': 3}
-        self.forget_password_password1 = {'element_name': '修改密码——新密码',
-                                          'locator_type': 'XPATH',
-                                          'locator_value': '//input[@id="password1"]',
-                                          'timeout': 3}
-        self.forget_password_password2 = {'element_name': '修改密码——重复新密码',
-                                          'locator_type': 'XPATH',
-                                          'locator_value': '//input[@id="password2"]',
-                                          'timeout': 3}
-        self.forget_password_save_button = {'element_name': '修改密码——保存按钮',
-                                            'locator_type': 'XPATH',
-                                            'locator_value': '//button[@id="submit"]',
-                                            'timeout': 3}
+        self.company_show_box = elements['company_show_box']
+        self.my_zone_menu = elements['my_zone_menu']
+        self.product_menu = elements['product_menu']
+        self.username_show_span = elements['username_show_span']
+        self.logout_menu = elements['logout_menu']
+        self.zentao_vaesion = elements['zentao_vaesion']
+        self.forget_password_menu = elements['forget_password_menu']
+        self.forget_password_original_password = elements['forget_password_original_password']
+        self.forget_password_password1 = elements['forget_password_password1']
+        self.forget_password_password2 = elements['forget_password_password2']
+        self.forget_password_save_button = elements['forget_password_save_button']
 
     def get_company_name(self):
         value = self.get_attribute(self.company_show_box)
@@ -106,3 +76,4 @@ if __name__ == '__main__':
     main_page.change_password(config.password, config.password, config.password)
     # 测试用例十： 签退
     main_page.logout()
+    driver.close()
