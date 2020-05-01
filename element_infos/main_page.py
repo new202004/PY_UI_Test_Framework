@@ -1,6 +1,6 @@
 from common import login
 from common.config_value import config
-from common import set_driver
+from common import browser
 from common.base_page import BasePage
 from common.element_yaml_utills import ElementYamlData
 # from common.element_data_utills import get_page_info
@@ -59,7 +59,8 @@ class MainPage(BasePage):
 
 
 if __name__ == '__main__':
-    driver = set_driver.set_driver()
+    driver = browser.Browser().get_driver()
+    driver.get(config.zantao_url)
     login.test_login(config.zantao_url, config.user_name, config.password, driver)
     main_page = MainPage(driver)
     # 测试用例三：获取"我的公司"名称
