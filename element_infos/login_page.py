@@ -2,11 +2,11 @@ from common.base_page import BasePage
 from common import login
 from common.config_value import config
 from common.browser import browser
-from common.element_yaml_utills import ElementYamlData
-# from common.element_data_utills import get_page_info
+# from common.element_yaml_utills import ElementYamlData
+from common.element_data_utills import get_page_info
 
-# elements = get_page_info('login_page')
-elements = ElementYamlData('login_page').read_yaml()
+elements = get_page_info('element_infos', 'login_page')
+# elements = ElementYamlData('login_page').read_yaml()
 
 
 class LoginPage(BasePage):
@@ -33,6 +33,6 @@ if __name__ == '__main__':
     login.test_login(config.zantao_url, config.user_name, config.password, driver)
     driver.close()
     # 测试用例二：登录失败
-    driver = browser.Browser().get_driver()
+    driver = browser.get_driver()
     login.test_login(config.zantao_url, config.user_name, (config.password + '1'), driver)
     driver.close()
