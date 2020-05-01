@@ -25,6 +25,10 @@ class ConfigValue:
     def chrome_path(self):
         return self.conf.get("driver", "chrome_path")
 
+    @property
+    def driver_name(self):
+        return self.conf.get("driver", "driver_name")
+
 
 config = ConfigValue()
 
@@ -33,4 +37,5 @@ if __name__ == '__main__':
     user_name = config.user_name
     password = config.password
     chrome_path = config.chrome_path
-    print(zantao_url, user_name, password, chrome_path)
+    driver_name = config.driver_name
+    print(zantao_url, user_name, password, chrome_path, driver_name)

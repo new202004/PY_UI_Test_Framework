@@ -1,7 +1,7 @@
 from common.base_page import BasePage
 from common import login
 from common.config_value import config
-from common import set_driver
+from common import browser
 from common.element_yaml_utills import ElementYamlData
 # from common.element_data_utills import get_page_info
 
@@ -27,11 +27,12 @@ class LoginPage(BasePage):
 
 
 if __name__ == '__main__':
-    driver = set_driver.set_driver()
+    driver = browser.Browser().get_driver()
+    driver.get(config.zantao_url)
     # 测试用例一：登录成功
     login.test_login(config.zantao_url, config.user_name, config.password, driver)
     driver.close()
     # 测试用例二：登录失败
-    driver = set_driver.set_driver()
+    driver = browser.Browser().get_driver()
     login.test_login(config.zantao_url, config.user_name, (config.password + '1'), driver)
     driver.close()

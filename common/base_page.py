@@ -1,3 +1,5 @@
+import time
+
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -39,14 +41,14 @@ class BasePage:
 
         if locator_type_name == 'id':
             locator_type = By.ID
-        elif locator_type_name == 'id':
+        elif locator_type_name == 'class_name':
             locator_type = By.CLASS_NAME
         elif locator_type_name == 'XPATH':
             locator_type = By.XPATH
 
-        logger.info('%s：  元素识别成功' % locator_element_name)
         elment = WebDriverWait(self.driver, int(locator_timeout))\
             .until(lambda x: x.find_element(locator_type, locator_value_info))
+        logger.info('%s：  元素识别成功' % locator_element_name)
 
         return elment
 
@@ -74,9 +76,11 @@ class BasePage:
 
     def switch_to_frame(self, frame):
         self.driver.switch_to.frame(frame)
+        time.sleep(1)
 
     def switch_to_default_content(self):
         self.driver.switch_to.default_content()
+        time.sleep(1)
 
 
 
