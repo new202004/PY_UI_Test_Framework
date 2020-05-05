@@ -1,5 +1,6 @@
 import os
 import xlrd
+from common.config_value import config
 
 current_path = os.path.dirname(__file__)
 excel_path = os.path.join(current_path, '../element_info_datas/elements_info.xlsx')
@@ -16,10 +17,13 @@ class ElementDataUtills:
     def get_element_info(self, page_name):
         element_infos = {}
         for i in range(1, self.row_count):
-                if self.sheet.cell_value(i, 0) == page_name:
-                    element_info = {'element_name': self.sheet.cell_value(i, 2), 'locator_type': self.sheet.cell_value(i, 3),
-                                    'locator_value': self.sheet.cell_value(i, 4), 'timeout': self.sheet.cell_value(i, 5)}
-                    element_infos[self.sheet.cell_value(i, 1)] = element_info
+            if self.sheet.cell_value(i, 0) == page_name:
+                element_info = {'element_name': self.sheet.cell_value(i, 2),
+                                'locator_type': self.sheet.cell_value(i, 3),
+                                'locator_value': self.sheet.cell_value(i, 4), 'timeout':
+                                    int(self.sheet.cell_value(i, 5)) if isinstance(self.sheet.cell_value(i, 5),
+                                                                                   float) else config.time_out}
+                element_infos[self.sheet.cell_value(i, 1)] = element_info
         return element_infos
 
 
@@ -32,4 +36,6 @@ def get_page_info(module_name, page_name):
 if __name__ == '__main__':
     module = 'element_infos'
     page = 'main_page'
-    print(get_page_info(module, page))
+    elements = get_page_info(module, page)
+    for e in elements.values():
+        print(e)

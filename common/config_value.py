@@ -29,6 +29,14 @@ class ConfigValue:
     def driver_name(self):
         return self.conf.get("driver", "driver_name")
 
+    @property
+    def time_out(self):
+        return self.conf.get("time", "time_out")
+
+    @property
+    def screen_shot_path(self):
+        return self.conf.get("default", "screen_shot_path")
+
 
 config = ConfigValue()
 
@@ -38,4 +46,6 @@ if __name__ == '__main__':
     password = config.password
     chrome_path = config.chrome_path
     driver_name = config.driver_name
-    print(zantao_url, user_name, password, chrome_path, driver_name)
+    time_out = config.time_out
+
+    print(zantao_url, user_name, password, chrome_path, driver_name, time_out)
