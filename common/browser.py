@@ -3,6 +3,7 @@ from selenium.webdriver.chrome.options import Options
 
 from common import config_value
 import os
+from common.log_utills import logger
 
 current_path = os.path.dirname(__file__)
 dri_path = os.path.join(current_path, config_value.config.chrome_path)
@@ -15,8 +16,10 @@ class Browser:
 
     def get_driver(self):
         if str(self.__driver_name).lower() == 'chrome':
+            logger.info('初始化浏览器并启动谷歌浏览器')
             return self.__get_chrome_driver()
         elif str(self.__driver_name).lower() == 'firefox':
+            logger.info('初始化浏览器并启动火狐浏览器')
             return self.__get_firefox_driver()
 
     def __get_chrome_driver(self):
