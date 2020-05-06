@@ -29,5 +29,5 @@ logger = LogUtils()
 
 
 if __name__ == '__main__':
-    log.info('newdream')
+    logger.info('newdream')
 

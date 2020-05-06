@@ -1,6 +1,7 @@
 import os
 import xlrd
 from common.config_value import config
+from common.excel_utills import ExcelUtills
 
 current_path = os.path.dirname(__file__)
 excel_path = os.path.join(current_path, '../element_info_datas/elements_info.xlsx')
@@ -8,22 +9,17 @@ excel_path = os.path.join(current_path, '../element_info_datas/elements_info.xls
 
 class ElementDataUtills:
     def __init__(self, module_name, element_path=excel_path):
-        self.element_path = element_path
-        self.workbook = xlrd.open_workbook(self.element_path)
-        self.sheet = self.workbook.sheet_by_name(module_name)
-        self.value = self.sheet.cell_value(1, 0)
-        self.row_count = self.sheet.nrows
+        self.excel_data = ExcelUtills(element_path, module_name).get_sheet_data_by_list()
 
     def get_element_info(self, page_name):
         element_infos = {}
-        for i in range(1, self.row_count):
-            if self.sheet.cell_value(i, 0) == page_name:
-                element_info = {'element_name': self.sheet.cell_value(i, 2),
-                                'locator_type': self.sheet.cell_value(i, 3),
-                                'locator_value': self.sheet.cell_value(i, 4), 'timeout':
-                                    int(self.sheet.cell_value(i, 5)) if isinstance(self.sheet.cell_value(i, 5),
-                                                                                   float) else config.time_out}
-                element_infos[self.sheet.cell_value(i, 1)] = element_info
+        for page_data in self.excel_data:
+            if page_data[0] == page_name:
+                element_info = {'element_name': page_data[2],
+                                'locator_type': page_data[3],
+                                'locator_value': page_data[4], 'timeout':
+                                    int(page_data[5]) if isinstance(page_data[5], float) else config.time_out}
+                element_infos[page_data[1]] = element_info
         return element_infos
 
 
