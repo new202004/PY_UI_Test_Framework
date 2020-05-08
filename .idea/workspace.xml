@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d07d3e5b-d8dc-4501-95b0-34feacebdace" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/common/HTMLTestReportCN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/禅道自动化测试报告-PYV1.0/image/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/禅道自动化测试报告-PYV1.0/禅道自动化测试报告-PYV1.0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner/run_all_case.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/base_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/config_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/config_value.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/selenium_base_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/selenium_base_case.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/test_data_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/test_data_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/local_config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/conf/local_config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/element_info_datas/elements_info.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/element_info_datas/elements_info.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/log_utills.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/log_utills.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_datas/test_data_infos.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test_datas/test_data_infos.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/login_suite/login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/login_suite/login_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +48,8 @@
       <recent name="G:\python_code\PY_UI_Test_Framework_class\element_infos\login" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.run_all_case">
-    <configuration name="config_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.browser">
+    <configuration name="browser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PO_UI_Test_Framework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/config_value.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/browser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="excel_utills" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="element_data_utills" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PO_UI_Test_Framework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +82,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/excel_utills.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/element_data_utills.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="log_utills" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PO_UI_Test_Framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/log_utills.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run_all_case" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="quit_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PO_UI_Test_Framework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,32 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runner" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases/main_suite" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runner/run_all_case.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_data_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PO_UI_Test_Framework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/test_data_utils.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcases/main_suite/quit_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.run_all_case" />
-        <item itemvalue="Python.config_value" />
+        <item itemvalue="Python.browser" />
+        <item itemvalue="Python.log_utills" />
+        <item itemvalue="Python.quit_test" />
         <item itemvalue="Python.login_test" />
-        <item itemvalue="Python.test_data_utils" />
-        <item itemvalue="Python.excel_utills" />
+        <item itemvalue="Python.element_data_utills" />
       </list>
     </recent_temporary>
   </component>
@@ -195,11 +183,11 @@
       <updated>1588687224663</updated>
     </task>
     <task id="LOCAL-00002" summary="1、完成base_page的封装优化（包含：windows句柄处理、alert处理、鼠标常用操作、键盘常用操作等）并调试通过">
-      <created>1588944242669</created>
+      <created>1588776512718</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1588944242669</updated>
+      <updated>1588776512718</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
@@ -210,45 +198,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="1、完成base_page的封装优化（包含：windows句柄处理、alert处理、鼠标常用操作、键盘常用操作等）并调试通过" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="111" y="49" width="1005" height="991" key="CommitChangelistDialog2" timestamp="1588952421784">
+    <state x="111" y="144" key="CommitChangelistDialog2" timestamp="1588776509466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="111" y="49" width="1005" height="991" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588952421784" />
-    <state width="1069" height="279" key="GridCell.Tab.0.bottom" timestamp="1588952401206">
+    <state x="111" y="144" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588776509466" />
+    <state width="1899" height="270" key="GridCell.Tab.0.bottom" timestamp="1588778038002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1069" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588952401206" />
-    <state width="1069" height="279" key="GridCell.Tab.0.center" timestamp="1588952401203">
+    <state width="1899" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588778038002" />
+    <state width="1899" height="270" key="GridCell.Tab.0.center" timestamp="1588778038001">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1069" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588952401203" />
-    <state width="1069" height="279" key="GridCell.Tab.0.left" timestamp="1588952401200">
+    <state width="1899" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588778038001" />
+    <state width="1899" height="270" key="GridCell.Tab.0.left" timestamp="1588778038001">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1069" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588952401200" />
-    <state width="1069" height="279" key="GridCell.Tab.0.right" timestamp="1588952401205">
+    <state width="1899" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588778038001" />
+    <state width="1899" height="270" key="GridCell.Tab.0.right" timestamp="1588778038002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1069" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588952401205" />
+    <state width="1899" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588778038002" />
     <state x="0" y="193" key="SettingsEditor" timestamp="1588666802933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="193" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588666802933" />
-    <state x="65" y="284" key="Vcs.Push.Dialog.v2" timestamp="1588687807489">
+    <state x="65" y="284" key="Vcs.Push.Dialog.v2" timestamp="1588776544194">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="65" y="284" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588687807489" />
-    <state x="237" y="342" key="git4idea.merge.GitMergeDialog" timestamp="1588944258339">
+    <state x="65" y="284" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588776544194" />
+    <state x="237" y="342" key="git4idea.merge.GitMergeDialog" timestamp="1588687669833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="237" y="342" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588944258339" />
+    <state x="237" y="342" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588687669833" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1588648000695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588648000695" />
-    <state x="78" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1588945846612">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="78" y="260" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588945846612" />
   </component>
 </project>

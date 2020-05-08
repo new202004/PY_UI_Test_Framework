@@ -1,5 +1,4 @@
 import os
-import xlrd
 from common.config_value import config
 from common.excel_utills import ExcelUtills
 
