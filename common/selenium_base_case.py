@@ -21,6 +21,12 @@ class SeleniumBaseCase(unittest.TestCase):
         self.base_page.open_url(self.url)
 
     def tearDown(self) -> None:
+        # 测试失败用例截图
+        errors = self._outcome.errors
+        for test, exc_info in errors:
+            if exc_info:
+                self.base_page.screeshot_as_file()
+
         self.base_page.close_tab()
         logger.info('----------测试方法开始完毕----------')
 

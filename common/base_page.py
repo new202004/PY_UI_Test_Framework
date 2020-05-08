@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from common.log_utills import logger
 from common.config_value import config
-
+from common import HTMLTestReportCN
 
 class BasePage:
     def __init__(self, driver):
@@ -195,7 +195,7 @@ class BasePage:
         self.driver.implicitly_wait(seconds)
 
     # 截图封装
-    def screenshot_as_file(self, *screenshot_path):
+    def screenshot_as_file_old(self, *screenshot_path):
         current_dir = os.path.dirname(__file__)
         if len(screenshot_path) == 0:
             screenshot_file_path = config.screen_shot_path
@@ -204,6 +204,13 @@ class BasePage:
         now = time.strftime('%Y_%m_%d_%H_%M_%S')
         screenshot_file_path = os.path.join(current_dir, screenshot_file_path, 'UI_test_%s.png' % now)
         self.driver.get_screenshot_as_file(screenshot_file_path)
+
+    # 新截图封装
+    def screenshot_as_file(self):
+        current_path = os.path.dirname(__file__)
+        report_path = os.path.join(current_path, config.report_path)
+        report_dir = HTMLTestReportCN.ReportDirectory(report_path)
+        report_dir.get_screenshot(self.driver)
 
 
 if __name__ == '__main__':

@@ -29,8 +29,9 @@ class TestDataUtils:
                 test_data_info['test_name'] = self.excel_data[i][1]
                 test_data_info['is_not'] = self.excel_data[i][3]
                 test_data_info['excepted_result'] = self.excel_data[i][4]
+                test_data_info['fail_information'] = self.excel_data[i][5]
                 test_parameter = {}
-                for j in range(5, len(self.excel_data[i])):
+                for j in range(6, len(self.excel_data[i])):
                     if self.excel_data[i][j].__contains__('=') and len(self.excel_data[i][j]) > 2:
                         parameter_info = self.excel_data[i][j].split('=')
                         test_parameter[parameter_info[0]] = parameter_info[1]
