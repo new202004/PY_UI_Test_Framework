@@ -37,6 +37,10 @@ class ConfigValue:
     def screen_shot_path(self):
         return self.conf.get("default", "screen_shot_path")
 
+    @property
+    def test_data_path(self):
+        return self.conf.get("default", "test_data_path")
+
 
 config = ConfigValue()
 
@@ -47,5 +51,6 @@ if __name__ == '__main__':
     chrome_path = config.chrome_path
     driver_name = config.driver_name
     time_out = config.time_out
+    test_data_path = config.test_data_path
 
-    print(zantao_url, user_name, password, chrome_path, driver_name, time_out)
+    print(test_data_path, zantao_url, user_name, password, chrome_path, driver_name, time_out)

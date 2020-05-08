@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d07d3e5b-d8dc-4501-95b0-34feacebdace" name="Default Changelist" comment="1、完成base_page的封装优化（包含：windows句柄处理、alert处理、鼠标常用操作、键盘常用操作等）并调试通过">
+      <change afterPath="$PROJECT_DIR$/common/test_data_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_datas/test_data_infos.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/element_data_utills.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/element_data_utills.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/config_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/config_value.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/excel_utills.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/excel_utills.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/log_utills.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/log_utills.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webdriver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/local_config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/conf/local_config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/login_suite/login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/login_suite/login_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/main_suite/quit_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/main_suite/quit_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +54,8 @@
       <recent name="G:\python_code\PY_UI_Test_Framework_class\element_infos\login" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.quit_test">
-    <configuration name="element_data_utills" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.login_test">
+    <configuration name="config_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PO_UI_Test_Framework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/element_data_utills.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/config_value.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,27 +89,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/excel_utills.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="login_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PO_UI_Test_Framework" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/element_infos/login" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/element_infos/login/login_page.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,13 +139,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_data_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PO_UI_Test_Framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/test_data_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.quit_test" />
         <item itemvalue="Python.login_test" />
-        <item itemvalue="Python.element_data_utills" />
+        <item itemvalue="Python.test_data_utils" />
         <item itemvalue="Python.excel_utills" />
-        <item itemvalue="Python.login_page" />
+        <item itemvalue="Python.config_value" />
+        <item itemvalue="Python.quit_test" />
       </list>
     </recent_temporary>
   </component>
@@ -197,22 +201,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="111" y="144" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588687526548" />
-    <state width="895" height="270" key="GridCell.Tab.0.bottom" timestamp="1588776473255">
+    <state width="912" height="279" key="GridCell.Tab.0.bottom" timestamp="1588944190874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="895" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588776473255" />
-    <state width="895" height="270" key="GridCell.Tab.0.center" timestamp="1588776473255">
+    <state width="912" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588944190874" />
+    <state width="912" height="279" key="GridCell.Tab.0.center" timestamp="1588944190874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="895" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588776473255" />
-    <state width="895" height="270" key="GridCell.Tab.0.left" timestamp="1588776473254">
+    <state width="912" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588944190874" />
+    <state width="912" height="279" key="GridCell.Tab.0.left" timestamp="1588944190873">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="895" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588776473254" />
-    <state width="895" height="270" key="GridCell.Tab.0.right" timestamp="1588776473255">
+    <state width="912" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588944190873" />
+    <state width="912" height="279" key="GridCell.Tab.0.right" timestamp="1588944190874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="895" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588776473255" />
+    <state width="912" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588944190874" />
     <state x="0" y="193" key="SettingsEditor" timestamp="1588666802933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -221,10 +225,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="65" y="284" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588687807489" />
-    <state x="237" y="342" key="git4idea.merge.GitMergeDialog" timestamp="1588687669833">
+    <state x="237" y="342" key="git4idea.merge.GitMergeDialog" timestamp="1588944221344">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="237" y="342" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588687669833" />
+    <state x="237" y="342" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588944221344" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1588648000695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

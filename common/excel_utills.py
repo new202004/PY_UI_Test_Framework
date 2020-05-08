@@ -47,8 +47,8 @@ class ExcelUtills:
 
 if __name__ == '__main__':
     current_path = os.path.dirname(__file__)
-    excel_path = os.path.join(current_path, '../element_info_datas/elements_info.xlsx')
-    sheet_name = 'element_infos'
+    excel_path = os.path.join(current_path, config.test_data_path)
+    sheet_name = 'login_suite'
     excel_utills = ExcelUtills(excel_path, sheet_name)
 
     for i in excel_utills.get_sheet_data_by_list():

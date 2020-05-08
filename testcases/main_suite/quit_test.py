@@ -4,7 +4,7 @@ from actions.login_action import LoginAction
 from common.selenium_base_case import SeleniumBaseCase
 
 
-class LoginTest(SeleniumBaseCase):
+class QuitTest(SeleniumBaseCase):
 
     def test_logout(self):
         login_action = LoginAction(self.base_page.driver)
