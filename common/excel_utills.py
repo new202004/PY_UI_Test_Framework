@@ -49,7 +49,9 @@ if __name__ == '__main__':
     current_path = os.path.dirname(__file__)
     excel_path = os.path.join(current_path, config.test_data_path)
     sheet_name = 'login_suite'
-    excel_utills = ExcelUtills(excel_path, sheet_name)
+    page_name = 'login_test'
+    page_excel_path = os.path.join(excel_path, sheet_name, page_name + '.xlsx')
+    excel_utills = ExcelUtills(page_excel_path)
 
     for i in excel_utills.get_sheet_data_by_list():
         print(i)

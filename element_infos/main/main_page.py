@@ -5,7 +5,7 @@ from common.base_page import BasePage
 # from common.element_yaml_utills import ElementYamlData
 from common.element_data_utills import get_page_info
 
-elements = get_page_info('element_infos',  'main_page')
+elements = get_page_info('main',  'main')
 # elements = ElementYamlData('main_page').read_yaml()
 
 

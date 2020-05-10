@@ -8,6 +8,7 @@ import os
 from common.excel_utills import config
 from common import HTMLTestReportCN
 import unittest
+from common.email_utils import EmailUtiles
 
 current_path = os.path.dirname(__file__)
 case_path = os.path.join(current_path, config.case_path)
@@ -30,12 +31,17 @@ class RunAllCase:
         report_dir = HTMLTestReportCN.ReportDirectory(self.report_path)
 
         report_dir.create_dir(self.title)
+        dir_path = HTMLTestReportCN.GlobalMsg.get_value('dir_path')
         report_path = HTMLTestReportCN.GlobalMsg.get_value('report_path')
+
         fb = open(report_path, "wb")
         runner = HTMLTestReportCN.HTMLTestRunner(stream=fb, title=self.title, description=self.description, tester='new')
         runner.run(all_suite)
         fb.close()
+        return dir_path
 
 
 if __name__ == '__main__':
-    RunAllCase().run()
+    dir_path = RunAllCase().run()
+    EmailUtiles().send_email()
+    # EmailUtiles(dir_path).zip_send_email()
