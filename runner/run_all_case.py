@@ -43,5 +43,5 @@ class RunAllCase:
 
 if __name__ == '__main__':
     dir_path = RunAllCase().run()
-    EmailUtiles().send_email()
-    # EmailUtiles(dir_path).zip_send_email()
+    # EmailUtiles().send_email()
+    EmailUtiles(dir_path).zip_send_email()

@@ -20,3 +20,447 @@ JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: 
 [Child 5291[GPU 26200, Chrome_Chil
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1589292535382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile35DMbP"
+1589292537196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589292537196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589292537196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589292537196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://4904e214-c2bf-4484-9c3d-50e790c6abf6/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589292540029	Marionette	INFO	Listening on port 59162
+1589292540399	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/comm[oCn/ipc_channel_wihn.cc, line 348
+i[Child 1ld 14464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 1764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 1764, Chrome_ChildThread] WAR1589293800150	Marionette	INFO	Stopped listening on port 59162
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16876, Chrome_ChildThread] 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+lla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://81532e93-2812-43c2-81a6-ba61657f28d8/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589292596923	Marionette	INFO	Listening on port 59226
+1589292597348	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 17740, Chrome_ChildT[Child 19180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Chi[Child 9036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 9036, Chrome_ChildThr1589293801362	Marionette	INFO	Stopped listening on port 59226
+[GPU 9572
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rg	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://58521756-9979-4438-b9d4-0cacb1d4e4b9/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589292787253	Marionette	INFO	Listening on port 59342
+1589292787712	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task[_C1h5i8l8d1 8188448210/,b uCihlrdo/mser_cC/hipc/chromium/src/chrome/common/ipildThread] WARNINGc_channel_win.cc, line 348:
+ pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 18420, C[Parent 17076, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 19064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 191589293802564	Marionette	INFO	Stopped listening on port 59342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14056, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589294883661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilewKw0iy"
+1589294884800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589294884800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589294884801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589294884801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://2d1090c5-7e05-4ed5-bba3-0ea68089dac5/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589294887359	Marionette	INFO	Listening on port 53489
+1589294887447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589294890005	Marionette	INFO	Stopped listening on port 53489
+[Child 22292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 222[Child 19860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 19860, Chrom[Child 21200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 2120
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589294936760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile1waNKs"
+1589294937918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589294937918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589294937918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589294937918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://42f96357-3361-4596-8507-92690af358fa/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589294940454	Marionette	INFO	Listening on port 53547
+1589294940548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589294943193	Marionette	INFO	Stopped listening on port 53547
+[Parent 18748, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 30612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 3061[Child 18724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 18724, Ch[Child 26596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 26596, Chrome_Child[GPU 23924, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589294974783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileUqNcF3"
+1589294975927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589294975927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589294975927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589294975928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://3193cefc-8cc5-4292-a8dc-6071652646c6/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589294978587	Marionette	INFO	Listening on port 53602
+1589294979088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589294981460	Marionette	INFO	Stopped listening on port 53602
+[Child 30584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 3[0Child 128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 128[Child 27624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 27[GPU 306
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+28, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589298956224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile1SzVl8"
+1589298981470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile2cve3e"
+1589298982621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589298982621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589298982621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589298982621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c9437b27-2a7d-4fb9-a7cd-c1e5f4916e35/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589298985111	Marionette	INFO	Listening on port 64061
+1589298985234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589298986692	Marionette	INFO	Stopped listening on port 64061
+[Child 16512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 16512[Child 3668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 3668, Chrome_[Parent 3232, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 17792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 17792, C[GPU 29496, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589298990955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilehi5Xtb"
+1589298992006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589298992007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589298992007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589298992007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://046c4e4d-416c-4d35-9e4a-8f10ba51c1f0/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589298994558	Marionette	INFO	Listening on port 64105
+1589298994695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589298996114	Marionette	INFO	Stopped listening on port 64105
+[Child 21380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/b[Chuild 30300, iChrome_ChildThrlead] WARNING: pipe error: 109: file z:/task_158818d8/4s8r1c//biupic/chromium/src/chrlodm/es/rcco/mimpocn//cihprco_mcihuam/src/chrome/common/ipc_channel_win.cc, line 348
+nnel_[Cwin.cc, hline 348
+[Child 21380,[Child 25172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 25172[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+28196, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589299000367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilemiqzcr"
+1589299001461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589299001461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589299001462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589299001462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://678cda8d-8103-45cf-a5f1-d3720be35fcf/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589299003987	Marionette	INFO	Listening on port 64148
+1589299004162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589299005503	Marionette	INFO	Stopped listening on port 64148
+[Child 26576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 2[Child 19896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 19896, Chr[Parent 28544, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 5476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 5476, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 30292, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589299945930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileBdla3r"
+1589299947066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589299947066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589299947067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589299947067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://73c18b98-0530-41d4-8ca0-8e83a2536941/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589299949754	Marionette	INFO	Listening on port 49411
+1589299950197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589299953566	Marionette	INFO	Stopped listening on port 49411
+[Child 21184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 2[Child 29748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 29748, Chrome_Chil[Parent 29208, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 27032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 270[GPU 1748, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589299974667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile3yimAG"
+1589299975802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589299975803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589299975803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589299975803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://296ff719-e56b-4db5-b52b-5d5f9c205424/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589299978352	Marionette	INFO	Listening on port 49490
+1589299978414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589299981506	Marionette	INFO	Stopped listening on port 49490
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 22572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 2257[Child 20296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 20296[Child 3372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 3372, [GPU 16976, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Chrome_ChildThread
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589299995800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileDPhICE"
+1589299996912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589299996912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589299996912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589299996912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://dc6e604c-bfda-4dd5-bd08-bd7110e27f87/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589299999449	Marionette	INFO	Listening on port 49556
+1589299999546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589300002919	Marionette	INFO	Stopped listening on port 49556
+[Parent 26696, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 24616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 24616, Chrom[Parent 26696, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 21656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 21656[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 26868, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589300359840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileqotaSe"
+1589300565690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileNR7Y7P"
+1589300566888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589300566889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589300566889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589300566889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://89a78121-c7ce-4b44-a9c3-0078466bb85f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589300569414	Marionette	INFO	Listening on port 50474
+1589300569479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589300572503	Marionette	INFO	Stopped listening on port 50474
+[Child 24632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 246[Parent 26192, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 24536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 24536, Chrome_[Child 22524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 22524, Chr[GPU 25
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+048, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589301196851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileoM7VGf"
+1589301197969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589301197969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589301197969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589301197970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://36531a92-095d-4376-91cb-e6ef5bf6b80d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589301200537	Marionette	INFO	Listening on port 51398
+1589301200642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589301202337	Marionette	INFO	Stopped listening on port 51398
+[Child 23344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/bui[lCdh/islrdc /2i3p8c2/0c,h rCohmrioum/src/chrome/common/ipc_channel_win.cc, line 348
+me_ChildThr[ead] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 2[Child 21440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 21440[GPU 9504, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589301219322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilevGnkPE"
+1589301220416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589301220416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589301220416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589301220416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://aaf8e4a6-eb93-49aa-80de-c214936f59a2/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589301223077	Marionette	INFO	Listening on port 51472
+1589301223106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589301224336	Marionette	INFO	Stopped listening on port 51472
+[Child 26204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 2620[Child 14228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Chi[Child 17372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 17372,[GPU 9748,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589301296177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile9p4XpH"
+1589301297320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589301297321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589301297321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589301297321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589301307221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileyb4Vza"
+1589301308359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589301308359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589301308359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589301308359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://8a54ea07-dfaf-4da0-8e9c-1349d0a85e83/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589301311021	Marionette	INFO	Listening on port 51679
+1589301311480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589301313083	Marionette	INFO	Stopped listening on port 51679
+[Child 28192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 28[Child 22688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 22688,[Child 29760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 29760[GPU 17700, Chrome_ChildThr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589301825646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileUv4tP2"
+1589301826956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589301826956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589301826956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589301826956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://e58a683f-b931-47b2-a083-6401ef163555/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589301829714	Marionette	INFO	Listening on port 52675
+1589301829906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589301832819	Marionette	INFO	Stopped listening on port 52675
+[Child 31408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 31[Child 31452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 31452, Chr[Child 14156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 14156[GPU 30936, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589301865194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilecMkfyh"
+1589301866420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589301866420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589301866421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589301866421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://b3f71bec-1c9f-4a19-a01a-12c529684ab8/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589301869118	Marionette	INFO	Listening on port 52768
+1589301869499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589301872474	Marionette	INFO	Stopped listening on port 52768
+[Child 26420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 26420, Ch[Child 23536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 23536[GPU 30008, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589302793847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileUKRHN0"
+1589302795021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589302795021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589302795021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589302795021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://94a2f38d-033e-428e-870c-7d5dbb4a26a1/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589302797747	Marionette	INFO	Listening on port 54163
+1589302798153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589302800946	Marionette	INFO	Stopped listening on port 54163
+[Child 31348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 31348,[Child 17424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 17424, Chrome_[Parent 24344, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 28812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 28812[GPU 26
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+424, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589302805341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofiletPPaTD"
+1589302806521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589302806521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589302806521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589302806521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://500695b6-b591-4db3-b3ac-d2dc362eefb1/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589302809180	Marionette	INFO	Listening on port 54227
+1589302809674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589302812392	Marionette	INFO	Stopped listening on port 54227
+[Child 26604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 26604, [Child 20176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 20[GPU 20028, Chrome_ChildThrea
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589302816781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile06fobl"
+1589302817943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589302817944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589302817944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589302817944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://102a08d6-707a-4916-b035-7075367c9080/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589302820481	Marionette	INFO	Listening on port 54285
+1589302820574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589302823427	Marionette	INFO	Stopped listening on port 54285
+[Child 8676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 867[Child 23348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 23348, [Child 28308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 283
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 22248, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1589302827831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileRECwQz"
+1589302828984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589302828985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589302828985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589302828985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://2e5dce5f-ed00-44fd-bae3-a9d14a63fc2f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589302831601	Marionette	INFO	Listening on port 54339
+1589302832083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589302834877	Marionette	INFO	Stopped listening on port 54339
+[Child 30740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1588188481/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 348
+[Child 30740, Chr[[GPU 30732, Chrome_C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -95,6 +95,7 @@ class BasePage:
     def get_attribute(self, element_info):
         value = self.find_element(element_info).get_attribute('title')
         logger.info('%s：  属性值为【%s】' % (element_info['element_name'], value))
+        return value
 
     # 获取文本信息
     def get_text(self, element_info):
@@ -208,46 +209,48 @@ class BasePage:
     # 新截图封装
     def screenshot_as_file(self):
         current_path = os.path.dirname(__file__)
-        report_path = os.path.join(current_path, config.report_path)
+        report_path = os.path.join(current_path,'..', config.report_path)
         report_dir = HTMLTestReportCN.ReportDirectory(report_path)
+        report_dir.create_dir()
         report_dir.get_screenshot(self.driver)
 
 
 if __name__ == '__main__':
     from common.browser import browser
     driver = browser.get_driver()
-# # 调试windows句柄
-#     driver.get('http://jtj.kaifeng.gov.cn/')
-#     driver.maximize_window()
-#     driver.find_element(By.XPATH, '//a[@href="http://kf.hnzwfw.gov.cn/hnzw/bmft/index/bm_index.do?webId=3&deptid='
-#                                   '001003012002024"]').click()
-#     # BasePage(driver).switch_window_by_url('http://jtj.kaifeng.gov.cn/')
-#     BasePage(driver).switch_window_by_title('开封市教育体育网')
-#     time.sleep(3)
-#     driver.find_element(By.XPATH, '//a[@href="/xxfc/"]').click()
-#     # driver.close()
-
-# # 调试alert
-#     js_str = "hello"
-#     BasePage(driver).alert(js_str)
-#     time.sleep(2)
-#     BasePage(driver).switch_to_alert()
+    BasePage(driver).screenshot_as_file()
+# # # 调试windows句柄
+# #     driver.get('http://jtj.kaifeng.gov.cn/')
+# #     driver.maximize_window()
+# #     driver.find_element(By.XPATH, '//a[@href="http://kf.hnzwfw.gov.cn/hnzw/bmft/index/bm_index.do?webId=3&deptid='
+# #                                   '001003012002024"]').click()
+# #     # BasePage(driver).switch_window_by_url('http://jtj.kaifeng.gov.cn/')
+# #     BasePage(driver).switch_window_by_title('开封市教育体育网')
+# #     time.sleep(3)
+# #     driver.find_element(By.XPATH, '//a[@href="/xxfc/"]').click()
+# #     # driver.close()
 #
-# # 调试鼠标常用操作
+# # # 调试alert
+# #     js_str = "hello"
+# #     BasePage(driver).alert(js_str)
+# #     time.sleep(2)
+# #     BasePage(driver).switch_to_alert()
+# #
+# # # 调试鼠标常用操作
+# #     driver.get('https://www.baidu.com/')
+# #     # locator_value_info = '//input[@type="submit"]'
+# #     locator_value_info = '//a[@href="http://www.baidu.com/gaoji/preferences.html"]'
+# #     elment = WebDriverWait(driver, int(5))\
+# #             .until(lambda x: x.find_element(By.XPATH, locator_value_info))
+# #
+# #     # BasePage(driver).mouse_right_click(elment)
+# #     BasePage(driver).mouse_click_and_hold(elment)
+#
+# # 调试键盘操作
 #     driver.get('https://www.baidu.com/')
-#     # locator_value_info = '//input[@type="submit"]'
-#     locator_value_info = '//a[@href="http://www.baidu.com/gaoji/preferences.html"]'
+#     locator_value_info = '//input[@id="kw"]'
 #     elment = WebDriverWait(driver, int(5))\
 #             .until(lambda x: x.find_element(By.XPATH, locator_value_info))
-#
-#     # BasePage(driver).mouse_right_click(elment)
-#     BasePage(driver).mouse_click_and_hold(elment)
-
-# 调试键盘操作
-    driver.get('https://www.baidu.com/')
-    locator_value_info = '//input[@id="kw"]'
-    elment = WebDriverWait(driver, int(5))\
-            .until(lambda x: x.find_element(By.XPATH, locator_value_info))
-    # elment.send_keys('111')
-    BasePage(driver).key_board_operate(elment, 'ctrl v')
+#     # elment.send_keys('111')
+#     BasePage(driver).key_board_operate(elment, 'ctrl v')
 

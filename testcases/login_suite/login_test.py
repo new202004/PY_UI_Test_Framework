@@ -1,12 +1,12 @@
 import unittest
 from actions.login_action import LoginAction
-from common.config_value import config
 from common.selenium_base_case import SeleniumBaseCase
 from common.test_data_utils import TestDataUtils
 
 
 class LoginTest(SeleniumBaseCase):
     test_class_info = TestDataUtils('login_suite', 'login_test').convert_exceldata_to_testdata()
+
     def setUp(self) -> None:
         super().setUp()
         self.base_page.wait(1)

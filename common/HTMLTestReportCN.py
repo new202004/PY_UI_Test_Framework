@@ -1292,13 +1292,14 @@ class ReportDirectory(object):
         GlobalMsg.set_value("dir_path", dir_path)
         GlobalMsg.set_value("report_path", report_path)
 
+
     @staticmethod
     def get_screenshot(browser):
         i = 1
 
         # 通过全局变量获取文件夹路径
         new_dir = GlobalMsg.get_value("dir_path")
-
+        print(new_dir)
         img_dir = new_dir + "/image"
         # 判断文件夹是否存在，不存在则创建
         is_dir = os.path.isdir(img_dir)
@@ -1354,5 +1355,15 @@ main = TestProgram
 # Executing this module from the command line
 ##############################################################################
 
+from common.config_value import config
+from common.browser import browser
+
 if __name__ == "__main__":
-    main(module=None)
+    # main(module=None)
+    driver = browser.get_driver()
+
+    current_path = os.path.dirname(__file__)
+    report_path = os.path.join(current_path, '..', config.report_path)
+    ReportDirectory(report_path).create_dir()
+    ReportDirectory(report_path).get_screenshot(driver)
+

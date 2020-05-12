@@ -1385,3 +1385,1337 @@
 2020-05-10 22:42:53,719 - common.log_utills - INFO - ----------测试方法开始执行----------
 2020-05-10 22:42:53,719 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
 2020-05-10 22:43:01,340 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 08:30:34,394 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 08:30:34,394 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 08:30:34,394 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 08:30:43,068 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 08:30:51,863 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 08:30:53,483 - common.log_utills - INFO - 浏览器刷新
+2020-05-12 08:30:53,533 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 08:30:53,573 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 08:30:53,583 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 08:30:53,613 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200320】
+2020-05-12 08:30:53,633 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 08:30:53,863 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 08:30:54,383 - common.log_utills - INFO - 弹窗提示值为：  登录失败，请检查您的用户名或密码是否填写正确。
+2020-05-12 08:30:54,393 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 08:30:54,393 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 08:30:54,393 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 08:30:54,393 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 08:31:01,627 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 08:31:02,507 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 08:31:02,517 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 08:31:02,597 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 08:31:02,607 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 08:31:02,657 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 08:31:02,677 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 08:31:02,917 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 08:31:06,707 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-12 08:31:07,057 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-12 08:31:07,077 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-12 08:31:08,230 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-12 08:31:08,240 - common.log_utills - INFO - 获取元素名称:用户登录 - 禅道
+2020-05-12 08:31:09,630 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 08:31:09,630 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 08:31:09,630 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 22:08:51,969 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 22:08:51,989 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 22:08:51,989 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:09:00,773 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 22:09:01,832 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 22:09:01,852 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 22:09:01,882 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 22:09:01,892 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 22:09:01,942 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 22:09:01,952 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 22:09:02,192 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 22:09:02,232 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 22:09:49,930 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 22:09:49,930 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 22:09:49,930 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:09:57,680 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 22:10:19,866 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 22:10:19,876 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 22:10:19,926 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 22:10:19,936 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 22:10:19,986 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 22:10:19,996 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 22:10:20,236 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 22:10:20,896 - common.log_utills - INFO - 公司名称：  元素识别成功
+2020-05-12 22:10:21,006 - common.log_utills - INFO - 公司名称：  属性值为【py_company】
+2020-05-12 22:10:21,006 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 22:13:00,367 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 22:13:00,367 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 22:13:00,367 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:13:08,077 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 22:13:08,978 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 22:13:08,988 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 22:13:09,028 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 22:13:09,038 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 22:13:09,094 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 22:13:09,098 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 22:13:09,338 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 22:13:10,064 - common.log_utills - INFO - 公司名称：  元素识别成功
+2020-05-12 22:13:10,084 - common.log_utills - INFO - 公司名称：  属性值为【py_company】
+2020-05-12 22:13:10,139 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 22:16:04,410 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:16:29,584 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:16:53,517 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:19:15,630 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:24:17,139 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:25:47,615 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:26:19,799 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:27:22,362 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:28:08,810 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:28:39,866 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:29:52,911 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:34:40,688 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:35:03,522 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:39:17,408 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:42:40,806 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:44:52,726 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:46:15,800 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:47:16,205 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:48:00,541 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 22:48:00,541 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 22:48:00,541 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:48:07,791 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 22:48:08,752 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 22:48:08,782 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 22:48:08,822 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 22:48:08,832 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 22:48:08,872 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 22:48:08,872 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 22:48:09,121 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 22:48:09,771 - common.log_utills - INFO - 公司名称：  元素识别成功
+2020-05-12 22:48:09,900 - common.log_utills - INFO - 公司名称：  属性值为【py_company】
+2020-05-12 22:48:11,147 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 22:48:11,147 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 22:48:11,147 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 22:48:53,637 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 22:48:53,637 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 22:48:53,647 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:49:00,874 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 22:49:01,771 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 22:49:01,801 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 22:49:01,861 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 22:49:01,871 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 22:49:01,927 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 22:49:01,937 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 22:49:02,184 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 22:49:02,884 - common.log_utills - INFO - 公司名称：  元素识别成功
+2020-05-12 22:49:02,969 - common.log_utills - INFO - 公司名称：  属性值为【py_company】
+2020-05-12 22:49:04,341 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 22:49:04,341 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 22:49:04,341 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 22:49:31,684 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 22:49:31,684 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 22:49:31,684 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:49:39,423 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 22:49:40,276 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 22:49:40,286 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 22:49:40,326 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 22:49:40,336 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 22:49:40,366 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 22:49:40,376 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 22:49:40,626 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 22:49:41,276 - common.log_utills - INFO - 公司名称：  元素识别成功
+2020-05-12 22:49:41,446 - common.log_utills - INFO - 公司名称：  属性值为【py_company】
+2020-05-12 22:49:42,605 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 22:49:42,605 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 22:49:42,605 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 22:50:05,097 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 22:50:05,097 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 22:50:05,097 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:50:12,380 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 22:50:13,140 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 22:50:14,895 - common.log_utills - INFO - 浏览器刷新
+2020-05-12 22:50:14,915 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 22:50:14,955 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 22:50:14,965 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 22:50:15,007 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200320】
+2020-05-12 22:50:15,019 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 22:50:15,252 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 22:50:15,272 - common.log_utills - INFO - 弹窗提示值为：  登录失败，请检查您的用户名或密码是否填写正确。
+2020-05-12 22:50:15,282 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 22:50:15,282 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 22:50:15,282 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 22:50:15,282 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 22:50:22,518 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 22:50:23,427 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 22:50:23,437 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 22:50:23,477 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 22:50:23,487 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 22:50:23,537 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 22:50:23,547 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 22:50:24,492 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 22:50:24,532 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-12 22:50:24,762 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-12 22:50:24,792 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-12 22:50:25,773 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-12 22:50:25,783 - common.log_utills - INFO - 获取元素名称:用户登录 - 禅道
+2020-05-12 22:50:26,941 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 22:50:26,941 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 22:50:26,941 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 23:19:24,810 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 23:19:24,810 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 23:19:24,810 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 23:19:32,184 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 23:19:33,344 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 23:19:36,117 - common.log_utills - INFO - 浏览器刷新
+2020-05-12 23:19:36,137 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 23:19:36,167 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 23:19:36,177 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 23:19:36,217 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200320】
+2020-05-12 23:19:36,227 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 23:19:36,467 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 23:19:36,988 - common.log_utills - INFO - 弹窗提示值为：  登录失败，请检查您的用户名或密码是否填写正确。
+2020-05-12 23:19:36,998 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 23:19:36,998 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 23:19:36,998 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 23:19:36,998 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 23:19:44,261 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 23:19:45,159 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 23:19:45,169 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 23:19:45,199 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 23:19:45,209 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 23:19:45,249 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 23:19:45,279 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 23:19:46,279 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 23:19:46,289 - common.log_utills - INFO - 公司名称：  元素识别成功
+2020-05-12 23:19:46,299 - common.log_utills - INFO - 公司名称：  属性值为【py_company】
+2020-05-12 23:19:47,439 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 23:19:47,439 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 23:19:47,439 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 23:19:47,439 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 23:19:47,439 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 23:19:47,439 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 23:19:54,659 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 23:19:55,560 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 23:19:55,570 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 23:19:55,610 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 23:19:55,630 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 23:19:55,670 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 23:19:55,690 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 23:19:55,930 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 23:19:56,710 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-12 23:19:56,936 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-12 23:19:56,946 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-12 23:19:57,840 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-12 23:19:57,850 - common.log_utills - INFO - 获取元素名称:用户登录 - 禅道
+2020-05-12 23:19:59,044 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 23:19:59,044 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 23:19:59,044 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 23:35:40,197 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 23:35:40,197 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 23:35:40,197 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 23:35:40,197 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 23:35:40,197 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 23:35:47,477 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 23:35:48,825 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 23:35:48,835 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 23:35:48,875 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 23:35:48,875 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 23:35:48,925 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 23:35:48,925 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 23:35:49,849 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 23:35:49,909 - common.log_utills - INFO - 公司名称：  元素识别成功
+2020-05-12 23:35:49,919 - common.log_utills - INFO - 公司名称：  属性值为【py_company】
+2020-05-12 23:35:51,129 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 23:35:51,129 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 23:35:51,129 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 23:37:24,256 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 23:37:24,256 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 23:37:24,256 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 23:37:24,256 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 23:37:24,256 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 23:37:31,610 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 23:37:32,296 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 23:37:32,316 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 23:37:32,376 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 23:37:32,396 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 23:37:32,436 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 23:37:32,456 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 23:37:33,294 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 23:37:33,334 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-12 23:37:33,584 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-12 23:37:33,594 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-12 23:37:34,514 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-12 23:37:34,514 - common.log_utills - INFO - 获取元素名称:用户登录 - 禅道
+2020-05-12 23:37:35,865 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 23:37:35,915 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 23:37:35,915 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 23:37:35,915 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 23:37:43,065 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 23:37:44,014 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 23:37:44,024 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 23:37:44,053 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 23:37:44,063 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 23:37:44,093 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 23:37:44,103 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 23:37:44,333 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 23:37:45,055 - common.log_utills - INFO - 公司名称：  元素识别成功
+2020-05-12 23:37:45,085 - common.log_utills - INFO - 公司名称：  属性值为【py_company】
+2020-05-12 23:37:46,265 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 23:37:46,265 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 23:37:46,265 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 23:55:53,001 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 23:55:53,110 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 23:55:53,111 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 23:56:18,349 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-12 23:56:18,349 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 23:56:18,349 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 23:56:25,667 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 23:56:26,562 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 23:56:27,869 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 23:56:27,869 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 23:56:27,879 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 23:56:27,879 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 23:56:35,099 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 23:56:35,985 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 23:56:37,276 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 23:56:37,276 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 23:56:37,276 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-12 23:56:37,276 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 23:56:44,534 - common.log_utills - INFO - 浏览器最大化
+2020-05-12 23:56:45,376 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 23:56:46,676 - common.log_utills - INFO - 关闭当前页面
+2020-05-12 23:56:46,676 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-12 23:56:46,686 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-12 23:58:21,792 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 23:58:30,460 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 23:58:30,480 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 23:58:30,510 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 23:58:30,520 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 23:58:30,560 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 23:58:30,580 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 23:58:30,814 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 23:58:31,866 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-12 23:58:32,096 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-12 23:58:32,096 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-12 23:58:32,971 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-12 23:58:38,063 - common.log_utills - ERROR - 首页名称：  元素识别失败，原因是：Message: 
+
+2020-05-12 23:59:26,125 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-12 23:59:34,579 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-12 23:59:34,589 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-12 23:59:34,629 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-12 23:59:34,629 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-12 23:59:34,679 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-12 23:59:34,689 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-12 23:59:35,589 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-12 23:59:35,599 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-12 23:59:35,834 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-12 23:59:35,844 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-12 23:59:36,674 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-12 23:59:41,740 - common.log_utills - ERROR - 首页名称：  元素识别失败，原因是：Message: 
+
+2020-05-13 00:00:01,429 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:00:10,488 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:00:10,498 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:00:10,538 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:00:10,548 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:00:10,598 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:00:10,608 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:00:11,479 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:00:11,489 - common.log_utills - INFO - 我的地盘：  元素识别成功
+2020-05-13 00:00:12,046 - common.log_utills - INFO - 我的地盘：  点击操作成功
+2020-05-13 00:00:12,056 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-13 00:00:12,306 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-13 00:00:12,316 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-13 00:00:13,120 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-13 00:00:18,207 - common.log_utills - ERROR - 首页名称：  元素识别失败，原因是：Message: 
+
+2020-05-13 00:01:17,199 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:01:25,862 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:01:25,882 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:01:25,912 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:01:25,922 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:01:25,972 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:01:25,982 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:01:26,882 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:01:26,902 - common.log_utills - INFO - 我的地盘：  元素识别成功
+2020-05-13 00:01:27,559 - common.log_utills - INFO - 我的地盘：  点击操作成功
+2020-05-13 00:01:27,569 - common.log_utills - INFO - 首页名称：  元素识别成功
+2020-05-13 00:01:27,589 - common.log_utills - INFO - 首页名称：  对象的文本信息为【我的地盘】
+2020-05-13 00:01:27,599 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-13 00:01:27,839 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-13 00:01:27,859 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-13 00:01:28,749 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-13 00:03:59,179 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:04:07,579 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:04:07,589 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:04:07,629 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:04:07,639 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:04:07,689 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:04:07,699 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:04:07,939 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:04:08,940 - common.log_utills - INFO - 我的地盘：  元素识别成功
+2020-05-13 00:04:09,487 - common.log_utills - INFO - 我的地盘：  点击操作成功
+2020-05-13 00:04:09,503 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-13 00:04:09,733 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-13 00:04:09,733 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-13 00:04:10,613 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-13 00:07:18,253 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:07:27,339 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:07:27,359 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:07:27,389 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:07:27,399 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:07:27,459 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:07:27,469 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:07:27,709 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:07:28,364 - common.log_utills - INFO - 我的地盘：  元素识别成功
+2020-05-13 00:07:28,854 - common.log_utills - INFO - 我的地盘：  点击操作成功
+2020-05-13 00:08:53,219 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:09:01,541 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:09:01,561 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:09:01,601 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:09:01,611 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:09:01,641 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:09:01,651 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:09:02,520 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:09:02,530 - common.log_utills - INFO - 我的地盘：  元素识别成功
+2020-05-13 00:09:03,072 - common.log_utills - INFO - 我的地盘：  点击操作成功
+2020-05-13 00:11:14,611 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:11:23,161 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:11:23,171 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:11:23,211 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:11:23,221 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:11:23,261 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:11:23,271 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:11:24,161 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:11:24,171 - common.log_utills - INFO - 我的地盘：  元素识别成功
+2020-05-13 00:11:24,701 - common.log_utills - INFO - 我的地盘：  点击操作成功
+2020-05-13 00:11:24,711 - common.log_utills - INFO - 日程名称：  元素识别成功
+2020-05-13 00:11:24,731 - common.log_utills - INFO - 日程名称：  对象的文本信息为【日程】
+2020-05-13 00:11:24,741 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-13 00:11:24,973 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-13 00:11:24,973 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-13 00:11:25,722 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-13 00:12:11,480 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:12:11,490 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:12:11,490 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:12:22,831 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:12:22,831 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:12:22,831 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:12:30,561 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 00:12:31,750 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:12:31,760 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:12:31,796 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:12:31,816 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:12:31,859 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:12:31,869 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:12:32,107 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:12:32,736 - common.log_utills - INFO - 我的地盘：  元素识别成功
+2020-05-13 00:12:33,411 - common.log_utills - INFO - 我的地盘：  点击操作成功
+2020-05-13 00:12:34,700 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 00:12:34,700 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 00:12:34,700 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 00:12:51,540 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:12:51,540 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:12:51,540 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:12:58,793 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 00:12:59,871 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:12:59,881 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:12:59,931 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:12:59,941 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:12:59,981 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:12:59,991 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:13:00,851 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:13:00,891 - common.log_utills - INFO - 我的地盘：  元素识别成功
+2020-05-13 00:13:01,470 - common.log_utills - INFO - 我的地盘：  点击操作成功
+2020-05-13 00:13:01,480 - common.log_utills - INFO - 日程名称：  元素识别成功
+2020-05-13 00:13:01,500 - common.log_utills - INFO - 日程名称：  对象的文本信息为【日程】
+2020-05-13 00:13:02,645 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 00:13:02,645 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 00:13:02,645 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 00:13:12,686 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:13:12,686 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:13:12,686 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:13:19,907 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 00:13:21,332 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:13:21,355 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:13:21,405 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:13:21,415 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:13:21,455 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:13:21,465 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:13:22,315 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:13:22,335 - common.log_utills - INFO - 我的地盘：  元素识别成功
+2020-05-13 00:13:22,855 - common.log_utills - INFO - 我的地盘：  点击操作成功
+2020-05-13 00:13:22,875 - common.log_utills - INFO - 日程名称：  元素识别成功
+2020-05-13 00:13:22,905 - common.log_utills - INFO - 日程名称：  对象的文本信息为【日程】
+2020-05-13 00:13:24,064 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 00:13:24,064 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 00:13:24,064 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 00:19:16,719 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:19:16,719 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:19:16,719 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:19:28,660 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:19:38,332 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:19:38,347 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:19:38,388 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:19:38,398 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:19:38,444 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:19:38,455 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:19:38,689 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:21:48,734 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:21:57,560 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:21:57,580 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:21:57,620 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:21:57,640 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:21:57,680 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:21:57,690 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:21:58,730 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:22:19,180 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:22:27,900 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:22:27,920 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:22:27,970 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:22:27,980 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:22:28,020 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:22:28,030 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:22:28,875 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:22:28,915 - common.log_utills - INFO - 项目：  元素识别成功
+2020-05-13 00:22:29,351 - common.log_utills - INFO - 项目：  点击操作成功
+2020-05-13 00:22:29,371 - common.log_utills - INFO - 项目-故事：  元素识别成功
+2020-05-13 00:22:29,401 - common.log_utills - INFO - 项目-故事：  对象的文本信息为【故事】
+2020-05-13 00:22:42,607 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:22:42,607 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:22:42,607 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:22:49,852 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 00:22:50,895 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:22:50,905 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:22:50,945 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:22:50,955 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:22:51,005 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:22:51,005 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:22:51,961 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:22:51,971 - common.log_utills - INFO - 项目：  元素识别成功
+2020-05-13 00:22:52,431 - common.log_utills - INFO - 项目：  点击操作成功
+2020-05-13 00:22:52,461 - common.log_utills - INFO - 项目-故事：  元素识别成功
+2020-05-13 00:22:52,491 - common.log_utills - INFO - 项目-故事：  对象的文本信息为【故事】
+2020-05-13 00:22:53,641 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 00:22:53,641 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 00:22:53,641 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 00:33:13,741 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:33:13,741 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:33:13,741 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:33:21,050 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 00:33:22,199 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:33:23,471 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 00:33:23,471 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 00:33:23,471 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 00:33:36,211 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:33:36,211 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:33:36,211 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:33:43,481 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 00:33:44,210 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:33:45,490 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 00:33:45,490 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 00:33:45,490 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 00:34:22,984 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:34:31,550 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:34:31,560 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:34:31,590 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:34:31,600 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:34:31,660 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:34:31,670 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:34:31,906 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:34:53,061 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:34:53,061 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:34:53,061 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:35:04,090 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:35:04,090 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:35:04,090 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:35:11,858 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 00:35:12,608 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:35:12,618 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:35:12,658 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:35:12,668 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:35:12,718 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:35:12,728 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:35:12,962 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:35:14,237 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 00:35:14,237 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 00:35:14,237 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 00:35:32,787 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:35:41,291 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:35:41,311 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:35:41,341 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:35:41,351 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:35:41,391 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:35:41,401 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:35:42,251 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:38:01,461 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:38:10,031 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:38:10,051 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:38:10,081 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:38:10,091 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:38:10,131 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:38:10,141 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:38:11,050 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:40:27,866 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:40:36,410 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:40:36,430 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:40:36,460 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:40:36,470 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:40:36,510 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:40:36,520 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:40:36,760 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:40:41,860 - common.log_utills - ERROR - 迭代：  元素识别失败，原因是：Message: 
+
+2020-05-13 00:41:05,999 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:41:14,970 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:41:14,990 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:41:15,020 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:41:15,036 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:41:15,070 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:41:15,080 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:41:15,960 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:41:21,081 - common.log_utills - ERROR - 迭代：  元素识别失败，原因是：Message: 
+
+2020-05-13 00:41:56,220 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:42:05,151 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:42:05,161 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:42:05,201 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:42:05,211 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:42:05,241 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:42:05,251 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:42:06,139 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:42:11,271 - common.log_utills - ERROR - 迭代：  元素识别失败，原因是：Message: 
+
+2020-05-13 00:42:35,881 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:42:44,900 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:42:44,910 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:42:44,950 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:42:44,960 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:42:45,000 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:42:45,010 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:42:45,248 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:42:50,361 - common.log_utills - ERROR - 迭代：  元素识别失败，原因是：Message: 
+
+2020-05-13 00:43:21,487 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:43:29,954 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:43:29,974 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:43:30,004 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:43:30,014 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:43:30,054 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:43:30,064 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:43:30,304 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:43:31,360 - common.log_utills - INFO - 迭代：  元素识别成功
+2020-05-13 00:43:31,826 - common.log_utills - INFO - 迭代：  点击操作成功
+2020-05-13 00:43:31,856 - common.log_utills - INFO - 迭代-燃尽图：  元素识别成功
+2020-05-13 00:43:31,896 - common.log_utills - INFO - 迭代-燃尽图：  对象的文本信息为【燃尽图】
+2020-05-13 00:43:42,517 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:43:42,517 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:43:42,517 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:43:50,313 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 00:43:51,061 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:43:51,071 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:43:51,111 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:43:51,121 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:43:51,161 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:43:51,181 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:43:51,421 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:43:52,058 - common.log_utills - INFO - 迭代：  元素识别成功
+2020-05-13 00:43:52,678 - common.log_utills - INFO - 迭代：  点击操作成功
+2020-05-13 00:43:54,003 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 00:43:54,003 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 00:43:54,003 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 00:44:22,081 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:44:22,081 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:44:22,081 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:44:29,835 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 00:44:30,753 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:44:30,767 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:44:30,809 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:44:30,818 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:44:30,856 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:44:30,864 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:44:31,096 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:44:31,846 - common.log_utills - INFO - 迭代：  元素识别成功
+2020-05-13 00:44:32,396 - common.log_utills - INFO - 迭代：  点击操作成功
+2020-05-13 00:44:32,426 - common.log_utills - INFO - 迭代-燃尽图：  元素识别成功
+2020-05-13 00:44:32,456 - common.log_utills - INFO - 迭代-燃尽图：  对象的文本信息为【燃尽图】
+2020-05-13 00:44:33,741 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 00:44:33,741 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 00:44:33,741 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 00:55:35,751 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:55:44,876 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:55:44,886 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:55:44,926 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:55:44,946 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:55:44,986 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:55:44,996 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:55:45,231 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 00:55:45,845 - common.log_utills - INFO - 测试：  元素识别成功
+2020-05-13 00:55:46,285 - common.log_utills - INFO - 测试：  点击操作成功
+2020-05-13 00:55:46,305 - common.log_utills - INFO - 测试-测试单：  元素识别成功
+2020-05-13 00:55:46,335 - common.log_utills - INFO - 测试-测试单：  对象的文本信息为【测试单】
+2020-05-13 00:55:46,335 - common.log_utills - INFO - 运维：  元素识别成功
+2020-05-13 00:55:46,705 - common.log_utills - INFO - 运维：  点击操作成功
+2020-05-13 00:55:46,715 - common.log_utills - INFO - 运维-机房：  元素识别成功
+2020-05-13 00:55:46,745 - common.log_utills - INFO - 运维-机房：  对象的文本信息为【机房】
+2020-05-13 00:55:46,755 - common.log_utills - INFO - 办公：  元素识别成功
+2020-05-13 00:55:47,091 - common.log_utills - INFO - 办公：  点击操作成功
+2020-05-13 00:55:47,111 - common.log_utills - INFO - 办公-考勤：  元素识别成功
+2020-05-13 00:55:47,131 - common.log_utills - INFO - 办公-考勤：  对象的文本信息为【办公】
+2020-05-13 00:59:50,710 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 00:59:50,710 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 00:59:50,710 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 00:59:58,485 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 00:59:59,295 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 00:59:59,315 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 00:59:59,367 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 00:59:59,376 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 00:59:59,406 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 00:59:59,416 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 00:59:59,656 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:00:00,296 - common.log_utills - INFO - 迭代：  元素识别成功
+2020-05-13 01:00:00,876 - common.log_utills - INFO - 迭代：  点击操作成功
+2020-05-13 01:00:00,896 - common.log_utills - INFO - 迭代-燃尽图：  元素识别成功
+2020-05-13 01:00:00,926 - common.log_utills - INFO - 迭代-燃尽图：  对象的文本信息为【燃尽图】
+2020-05-13 01:00:02,211 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:00:02,211 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:00:02,211 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:00:02,211 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:00:10,016 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:00:10,863 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 01:00:10,873 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:00:10,913 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:00:10,923 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:00:10,953 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:00:10,963 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:00:11,202 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:00:11,847 - common.log_utills - INFO - 办公：  元素识别成功
+2020-05-13 01:00:12,325 - common.log_utills - INFO - 办公：  点击操作成功
+2020-05-13 01:00:12,355 - common.log_utills - INFO - 办公-考勤：  元素识别成功
+2020-05-13 01:00:12,375 - common.log_utills - INFO - 办公-考勤：  对象的文本信息为【办公】
+2020-05-13 01:00:13,681 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:00:13,681 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:00:13,681 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:00:13,681 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:00:20,902 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:00:21,662 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 01:00:21,672 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:00:21,722 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:00:21,732 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:00:21,772 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:00:21,782 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:00:22,022 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:00:22,702 - common.log_utills - INFO - 运维：  元素识别成功
+2020-05-13 01:00:23,351 - common.log_utills - INFO - 运维：  点击操作成功
+2020-05-13 01:00:23,371 - common.log_utills - INFO - 运维-机房：  元素识别成功
+2020-05-13 01:00:23,411 - common.log_utills - INFO - 运维-机房：  对象的文本信息为【机房】
+2020-05-13 01:00:24,691 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:00:24,691 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:00:24,691 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:00:24,691 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:00:32,436 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:00:33,351 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 01:00:33,361 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:00:33,401 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:00:33,411 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:00:33,461 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:00:33,471 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:00:33,701 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:00:34,367 - common.log_utills - INFO - 测试：  元素识别成功
+2020-05-13 01:00:34,807 - common.log_utills - INFO - 测试：  点击操作成功
+2020-05-13 01:00:34,837 - common.log_utills - INFO - 测试-测试单：  元素识别成功
+2020-05-13 01:00:34,867 - common.log_utills - INFO - 测试-测试单：  对象的文本信息为【测试单】
+2020-05-13 01:00:36,011 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:00:36,011 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:00:36,011 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 01:01:20,662 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:01:20,662 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 01:01:20,662 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:01:20,662 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:01:20,662 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:01:28,411 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:01:29,271 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 01:01:29,281 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:01:29,311 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:01:29,321 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:01:29,351 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:01:29,361 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:01:29,601 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:01:30,241 - common.log_utills - INFO - 迭代：  元素识别成功
+2020-05-13 01:01:30,882 - common.log_utills - INFO - 迭代：  点击操作成功
+2020-05-13 01:01:30,912 - common.log_utills - INFO - 迭代-燃尽图：  元素识别成功
+2020-05-13 01:01:30,942 - common.log_utills - INFO - 迭代-燃尽图：  对象的文本信息为【燃尽图】
+2020-05-13 01:01:32,223 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:01:32,223 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:01:32,233 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:01:32,233 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:01:39,962 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:01:40,642 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 01:01:40,652 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:01:40,692 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:01:40,722 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:01:40,762 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:01:40,772 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:01:41,002 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:01:41,661 - common.log_utills - INFO - 办公：  元素识别成功
+2020-05-13 01:01:42,164 - common.log_utills - INFO - 办公：  点击操作成功
+2020-05-13 01:01:42,184 - common.log_utills - INFO - 办公-考勤：  元素识别成功
+2020-05-13 01:01:42,214 - common.log_utills - INFO - 办公-考勤：  对象的文本信息为【办公】
+2020-05-13 01:01:43,481 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:01:43,481 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:01:43,481 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:01:43,481 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:01:50,743 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:01:51,671 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 01:01:51,691 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:01:51,731 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:01:51,741 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:01:51,791 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:01:51,798 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:01:52,033 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:01:52,613 - common.log_utills - INFO - 运维：  元素识别成功
+2020-05-13 01:01:53,181 - common.log_utills - INFO - 运维：  点击操作成功
+2020-05-13 01:01:53,211 - common.log_utills - INFO - 运维-机房：  元素识别成功
+2020-05-13 01:01:53,241 - common.log_utills - INFO - 运维-机房：  对象的文本信息为【机房】
+2020-05-13 01:01:54,391 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:01:54,391 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:01:54,391 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:01:54,391 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:02:02,174 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:02:03,019 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 01:02:03,037 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:02:03,071 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:02:03,081 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:02:03,121 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:02:03,131 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:02:03,371 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:02:04,110 - common.log_utills - INFO - 测试：  元素识别成功
+2020-05-13 01:02:04,600 - common.log_utills - INFO - 测试：  点击操作成功
+2020-05-13 01:02:04,630 - common.log_utills - INFO - 测试-测试单：  元素识别成功
+2020-05-13 01:02:04,660 - common.log_utills - INFO - 测试-测试单：  对象的文本信息为【测试单】
+2020-05-13 01:02:05,900 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:02:05,900 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:02:05,900 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:02:05,900 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:02:13,672 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:02:14,438 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 01:02:14,448 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:02:14,478 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:02:14,488 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:02:14,538 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:02:14,558 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:02:14,793 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:02:15,571 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-13 01:02:15,909 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-13 01:02:15,919 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-13 01:02:17,164 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-13 01:02:17,184 - common.log_utills - INFO - 获取元素名称:用户登录 - 禅道
+2020-05-13 01:02:18,748 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:02:18,748 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:02:18,748 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:02:18,748 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:02:26,483 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:02:27,291 - common.log_utills - INFO - 打开url地址：http://127.0.0.1/biz/user-login-L2Jpei8=.html
+2020-05-13 01:02:27,301 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:02:27,341 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:02:27,351 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:02:27,391 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:02:27,391 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:02:28,291 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:02:28,301 - common.log_utills - INFO - 公司名称：  元素识别成功
+2020-05-13 01:02:28,311 - common.log_utills - INFO - 公司名称：  属性值为【py_company】
+2020-05-13 01:02:29,452 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:02:29,452 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:02:29,452 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 01:04:36,241 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:04:36,241 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 01:04:36,241 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:04:36,251 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:04:36,251 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:04:43,978 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:04:45,401 - common.log_utills - INFO - 打开url地址：http://106.53.50.202:8999/zentao1/www/user-login-L3plbnRhbzYvd3d3Lw==.html
+2020-05-13 01:04:45,421 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:04:45,471 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:04:45,501 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:04:45,551 - common.log_utills - INFO - 密码输入框：  输入内容【Yizudedipan123456】
+2020-05-13 01:04:45,551 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:04:45,786 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:04:47,471 - common.log_utills - INFO - 迭代：  元素识别成功
+2020-05-13 01:04:48,151 - common.log_utills - INFO - 迭代：  点击操作成功
+2020-05-13 01:04:53,669 - common.log_utills - ERROR - 迭代-燃尽图：  元素识别失败，原因是：Message: 
+
+2020-05-13 01:04:55,075 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:04:55,075 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:04:55,075 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:04:55,075 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:05:03,422 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:05:05,848 - common.log_utills - INFO - 打开url地址：http://106.53.50.202:8999/zentao1/www/user-login-L3plbnRhbzYvd3d3Lw==.html
+2020-05-13 01:05:05,868 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:05:05,908 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:05:05,918 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:05:05,978 - common.log_utills - INFO - 密码输入框：  输入内容【Yizudedipan123456】
+2020-05-13 01:05:05,988 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:05:06,698 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:05:12,227 - common.log_utills - ERROR - 办公：  元素识别失败，原因是：Message: 
+
+2020-05-13 01:05:13,821 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:05:13,821 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:05:13,831 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:05:13,831 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:05:21,502 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:05:23,111 - common.log_utills - INFO - 打开url地址：http://106.53.50.202:8999/zentao1/www/user-login-L3plbnRhbzYvd3d3Lw==.html
+2020-05-13 01:05:23,161 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:05:23,201 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:05:23,231 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:05:23,281 - common.log_utills - INFO - 密码输入框：  输入内容【Yizudedipan123456】
+2020-05-13 01:05:23,301 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:05:24,206 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:05:29,762 - common.log_utills - ERROR - 运维：  元素识别失败，原因是：Message: 
+
+2020-05-13 01:05:31,331 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:05:31,331 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:05:31,331 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:05:31,331 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:05:40,122 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:05:41,644 - common.log_utills - INFO - 打开url地址：http://106.53.50.202:8999/zentao1/www/user-login-L3plbnRhbzYvd3d3Lw==.html
+2020-05-13 01:05:41,666 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:05:41,709 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:05:41,724 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:05:41,798 - common.log_utills - INFO - 密码输入框：  输入内容【Yizudedipan123456】
+2020-05-13 01:05:41,825 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:05:42,554 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:05:42,570 - common.log_utills - INFO - 测试：  元素识别成功
+2020-05-13 01:05:45,940 - common.log_utills - INFO - 测试：  点击操作成功
+2020-05-13 01:05:51,463 - common.log_utills - ERROR - 测试-测试单：  元素识别失败，原因是：Message: 
+
+2020-05-13 01:05:52,956 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:05:52,956 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:05:52,957 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:05:52,957 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:06:00,593 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:06:02,540 - common.log_utills - INFO - 打开url地址：http://106.53.50.202:8999/zentao1/www/user-login-L3plbnRhbzYvd3d3Lw==.html
+2020-05-13 01:06:02,618 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:06:02,657 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:06:02,668 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:06:02,735 - common.log_utills - INFO - 密码输入框：  输入内容【Yizudedipan123456】
+2020-05-13 01:06:02,752 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:06:03,536 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:06:03,550 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-13 01:06:03,794 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-13 01:06:09,312 - common.log_utills - ERROR - 签退：  元素识别失败，原因是：Message: 
+
+2020-05-13 01:06:10,971 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:06:10,971 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:06:10,973 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:06:10,973 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:06:18,637 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:06:20,126 - common.log_utills - INFO - 打开url地址：http://106.53.50.202:8999/zentao1/www/user-login-L3plbnRhbzYvd3d3Lw==.html
+2020-05-13 01:06:20,141 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:06:20,176 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:06:20,189 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:06:20,249 - common.log_utills - INFO - 密码输入框：  输入内容【Yizudedipan123456】
+2020-05-13 01:06:20,264 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:06:21,060 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:06:21,091 - common.log_utills - INFO - 公司名称：  元素识别成功
+2020-05-13 01:06:21,130 - common.log_utills - INFO - 公司名称：  属性值为【第一组】
+2020-05-13 01:06:22,526 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:06:22,526 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:06:22,526 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 01:08:08,284 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:08:08,285 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:08:08,285 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:08:16,007 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:08:37,140 - common.log_utills - ERROR - 不能打开指定的特殊网址，原因是：Message: Reached error page: about:neterror?e=netTimeout&u=http%3A//172.20.15.229/biz/user-login-L2Jpei8%3D.html&c=UTF-8&f=regular&d=172.20.15.229%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82
+
+2020-05-13 01:08:59,211 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:08:59,211 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:09:07,505 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:09:28,666 - common.log_utills - ERROR - 不能打开指定的特殊网址，原因是：Message: Reached error page: about:neterror?e=netTimeout&u=http%3A//172.20.15.229/biz/user-login-L2Jpei8%3D.html&c=UTF-8&f=regular&d=172.20.15.229%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82
+
+2020-05-13 01:09:50,743 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 01:09:50,743 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:09:50,744 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:09:50,744 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:09:58,581 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:10:19,722 - common.log_utills - ERROR - 不能打开指定的特殊网址，原因是：Message: Reached error page: about:neterror?e=netTimeout&u=http%3A//172.20.15.229/biz/user-login-L2Jpei8%3D.html&c=UTF-8&f=regular&d=172.20.15.229%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82
+
+2020-05-13 01:10:25,278 - common.log_utills - ERROR - 用户名输入框：  元素识别失败，原因是：Message: 
+
+2020-05-13 01:10:26,719 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:10:26,719 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:10:26,740 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:10:26,740 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:10:34,378 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:10:46,553 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:10:46,553 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:10:46,553 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:10:54,209 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:11:15,334 - common.log_utills - ERROR - 不能打开指定的特殊网址，原因是：Message: Reached error page: about:neterror?e=netTimeout&u=http%3A//192.68.1.6/biz/user-login-L2Jpei8%3D.html&c=UTF-8&f=regular&d=192.68.1.6%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82
+
+2020-05-13 01:11:37,406 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:11:37,406 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:11:45,037 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:12:08,304 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:12:08,305 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:12:08,305 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:12:16,000 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:12:16,796 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:12:18,588 - common.log_utills - INFO - 浏览器刷新
+2020-05-13 01:12:18,596 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:12:18,633 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:12:18,644 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:12:18,690 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200320】
+2020-05-13 01:12:18,703 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:12:18,908 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:12:18,927 - common.log_utills - INFO - 弹窗提示值为：  登录失败，请检查您的用户名或密码是否填写正确。
+2020-05-13 01:12:18,940 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:12:18,940 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:12:26,582 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:12:27,471 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:12:29,300 - common.log_utills - INFO - 浏览器刷新
+2020-05-13 01:12:29,313 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:12:29,356 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:12:29,366 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:12:29,406 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:12:29,413 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:12:29,644 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:12:30,636 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-13 01:12:30,819 - common.log_utills - INFO - 用户名称：  对象的文本信息为【admin】
+2020-05-13 01:12:30,820 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 01:12:30,820 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:12:30,820 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:12:30,820 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:12:39,098 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:12:39,895 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:12:39,908 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:12:39,941 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:12:39,951 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:12:39,986 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:12:39,998 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:12:40,232 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:12:40,888 - common.log_utills - INFO - 迭代：  元素识别成功
+2020-05-13 01:12:41,591 - common.log_utills - INFO - 迭代：  点击操作成功
+2020-05-13 01:12:41,613 - common.log_utills - INFO - 迭代-燃尽图：  元素识别成功
+2020-05-13 01:12:41,644 - common.log_utills - INFO - 迭代-燃尽图：  对象的文本信息为【燃尽图】
+2020-05-13 01:12:42,871 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:12:42,871 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:12:42,872 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:12:42,872 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:12:50,548 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:12:51,506 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:12:51,522 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:12:51,560 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:12:51,572 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:12:51,611 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:12:51,624 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:12:51,851 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:12:52,616 - common.log_utills - INFO - 项目：  元素识别成功
+2020-05-13 01:12:53,204 - common.log_utills - INFO - 项目：  点击操作成功
+2020-05-13 01:12:54,532 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:12:54,532 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:12:54,532 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:12:54,533 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:13:02,197 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:13:04,202 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:13:04,224 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:13:04,267 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:13:04,278 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:13:04,318 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:13:04,327 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:13:04,562 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:13:05,381 - common.log_utills - INFO - 办公：  元素识别成功
+2020-05-13 01:13:05,957 - common.log_utills - INFO - 办公：  点击操作成功
+2020-05-13 01:13:05,983 - common.log_utills - INFO - 办公-考勤：  元素识别成功
+2020-05-13 01:13:06,006 - common.log_utills - INFO - 办公-考勤：  对象的文本信息为【办公】
+2020-05-13 01:13:07,342 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:13:07,342 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:13:07,342 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:13:07,342 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:13:15,095 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:13:16,183 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:13:16,202 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:13:16,240 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:13:16,254 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:13:16,305 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:13:16,316 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:13:16,550 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:13:17,237 - common.log_utills - INFO - 运维：  元素识别成功
+2020-05-13 01:13:17,816 - common.log_utills - INFO - 运维：  点击操作成功
+2020-05-13 01:13:17,836 - common.log_utills - INFO - 运维-机房：  元素识别成功
+2020-05-13 01:13:17,865 - common.log_utills - INFO - 运维-机房：  对象的文本信息为【机房】
+2020-05-13 01:13:19,083 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:13:19,083 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:13:19,084 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:13:19,084 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:13:26,861 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:13:27,665 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:13:27,676 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:13:27,712 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:13:27,725 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:13:27,787 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:13:27,802 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:13:28,038 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:13:28,646 - common.log_utills - INFO - 测试：  元素识别成功
+2020-05-13 01:13:29,217 - common.log_utills - INFO - 测试：  点击操作成功
+2020-05-13 01:13:29,250 - common.log_utills - INFO - 测试-测试单：  元素识别成功
+2020-05-13 01:13:29,279 - common.log_utills - INFO - 测试-测试单：  对象的文本信息为【测试单】
+2020-05-13 01:13:30,515 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:13:30,515 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:13:30,515 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:13:30,515 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:13:38,277 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:13:39,113 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:13:39,130 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:13:39,161 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:13:39,172 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:13:39,206 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:13:39,217 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:13:39,450 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:13:40,143 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-13 01:13:40,449 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-13 01:13:40,457 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-13 01:13:41,397 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-13 01:13:41,405 - common.log_utills - INFO - 获取元素名称:用户登录 - 禅道
+2020-05-13 01:13:42,623 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:13:42,623 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:13:42,623 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:13:42,623 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:13:50,344 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:13:51,421 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:13:51,437 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:13:51,484 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:13:51,498 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:13:51,538 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:13:51,548 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:13:51,782 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:13:52,474 - common.log_utills - INFO - 公司名称：  元素识别成功
+2020-05-13 01:13:52,564 - common.log_utills - INFO - 公司名称：  属性值为【py_company】
+2020-05-13 01:13:53,772 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:13:53,772 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:13:53,773 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 01:16:36,029 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:16:36,029 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:16:36,029 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:16:43,689 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:16:44,635 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:16:46,409 - common.log_utills - INFO - 浏览器刷新
+2020-05-13 01:16:46,419 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:16:46,453 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:16:46,463 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:16:46,503 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200320】
+2020-05-13 01:16:46,520 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:16:46,712 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:16:46,731 - common.log_utills - INFO - 弹窗提示值为：  登录失败，请检查您的用户名或密码是否填写正确。
+2020-05-13 01:16:46,737 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:16:46,737 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:16:54,421 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:16:55,331 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:16:57,203 - common.log_utills - INFO - 浏览器刷新
+2020-05-13 01:16:57,216 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:16:57,248 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:16:57,255 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:16:57,302 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:16:57,314 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:16:57,546 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:16:58,206 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-13 01:16:58,348 - common.log_utills - INFO - 用户名称：  对象的文本信息为【admin】
+2020-05-13 01:16:58,348 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 01:16:58,348 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:16:58,349 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:16:58,349 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:17:06,038 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:17:06,952 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:17:06,968 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:17:07,003 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:17:07,011 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:17:07,064 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:17:07,079 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:17:07,313 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:17:08,027 - common.log_utills - INFO - 迭代：  元素识别成功
+2020-05-13 01:17:08,654 - common.log_utills - INFO - 迭代：  点击操作成功
+2020-05-13 01:17:08,684 - common.log_utills - INFO - 迭代-燃尽图：  元素识别成功
+2020-05-13 01:17:08,711 - common.log_utills - INFO - 迭代-燃尽图：  对象的文本信息为【燃尽图】
+2020-05-13 01:17:09,939 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:17:09,939 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:17:09,939 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:17:09,939 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:17:18,218 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:17:19,042 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:17:19,050 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:17:19,101 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:17:19,113 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:17:19,158 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:17:19,173 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:17:19,400 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:17:20,215 - common.log_utills - INFO - 我的地盘：  元素识别成功
+2020-05-13 01:17:20,976 - common.log_utills - INFO - 我的地盘：  点击操作成功
+2020-05-13 01:17:20,988 - common.log_utills - INFO - 我的地盘-日程名称：  元素识别成功
+2020-05-13 01:17:21,009 - common.log_utills - INFO - 我的地盘-日程名称：  对象的文本信息为【日程】
+2020-05-13 01:17:22,191 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:17:22,191 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:17:22,191 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:17:22,191 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:17:29,888 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:17:30,693 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:17:30,711 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:17:30,756 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:17:30,766 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:17:30,846 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:17:30,861 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:17:31,111 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:17:31,978 - common.log_utills - INFO - 办公：  元素识别成功
+2020-05-13 01:17:32,513 - common.log_utills - INFO - 办公：  点击操作成功
+2020-05-13 01:17:32,542 - common.log_utills - INFO - 办公-考勤：  元素识别成功
+2020-05-13 01:17:32,576 - common.log_utills - INFO - 办公-考勤：  对象的文本信息为【办公】
+2020-05-13 01:17:33,783 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:17:33,783 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:17:33,783 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:17:33,784 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:17:41,486 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:17:42,423 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:17:42,441 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:17:42,486 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:17:42,500 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:17:42,545 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:17:42,557 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:17:42,789 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:17:43,577 - common.log_utills - INFO - 运维：  元素识别成功
+2020-05-13 01:17:44,253 - common.log_utills - INFO - 运维：  点击操作成功
+2020-05-13 01:17:44,282 - common.log_utills - INFO - 运维-机房：  元素识别成功
+2020-05-13 01:17:44,315 - common.log_utills - INFO - 运维-机房：  对象的文本信息为【机房】
+2020-05-13 01:17:45,664 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:17:45,665 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:17:45,665 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:17:45,665 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:17:53,316 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:17:54,115 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:17:54,129 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:17:54,174 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:17:54,187 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:17:54,236 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:17:54,246 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:17:54,475 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:17:55,209 - common.log_utills - INFO - 项目：  元素识别成功
+2020-05-13 01:17:55,762 - common.log_utills - INFO - 项目：  点击操作成功
+2020-05-13 01:17:57,207 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:17:57,208 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:17:57,209 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:17:57,209 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:18:04,848 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:18:06,229 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:18:06,245 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:18:06,285 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:18:06,293 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:18:06,336 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:18:06,346 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:18:06,592 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:18:07,350 - common.log_utills - INFO - 测试：  元素识别成功
+2020-05-13 01:18:07,974 - common.log_utills - INFO - 测试：  点击操作成功
+2020-05-13 01:18:08,004 - common.log_utills - INFO - 测试-测试单：  元素识别成功
+2020-05-13 01:18:08,040 - common.log_utills - INFO - 测试-测试单：  对象的文本信息为【测试单】
+2020-05-13 01:18:09,221 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:18:09,222 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:18:09,222 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:18:09,222 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:18:16,917 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:18:17,847 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:18:17,862 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:18:17,908 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:18:17,921 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:18:17,973 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:18:17,990 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:18:18,227 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:18:18,964 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-13 01:18:19,273 - common.log_utills - INFO - 用户名称：  点击操作成功
+2020-05-13 01:18:19,284 - common.log_utills - INFO - 签退：  元素识别成功
+2020-05-13 01:18:20,273 - common.log_utills - INFO - 签退：  点击操作成功
+2020-05-13 01:18:20,279 - common.log_utills - INFO - 获取元素名称:用户登录 - 禅道
+2020-05-13 01:18:21,528 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:18:21,529 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:18:21,529 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:18:21,529 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:18:29,199 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:18:30,022 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:18:30,041 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:18:30,082 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:18:30,093 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:18:30,130 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:18:30,140 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:18:30,375 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:18:31,138 - common.log_utills - INFO - 公司名称：  元素识别成功
+2020-05-13 01:18:31,223 - common.log_utills - INFO - 公司名称：  属性值为【py_company】
+2020-05-13 01:18:32,458 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:18:32,459 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:18:32,459 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 01:20:53,803 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:21:03,033 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:21:03,044 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:21:03,089 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:21:03,098 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:21:03,142 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:21:03,159 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:21:03,393 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:21:04,451 - common.log_utills - INFO - 项目：  元素识别成功
+2020-05-13 01:21:04,917 - common.log_utills - INFO - 项目：  点击操作成功
+2020-05-13 01:21:04,939 - common.log_utills - INFO - 项目-故事：  元素识别成功
+2020-05-13 01:21:04,969 - common.log_utills - INFO - 项目-故事：  对象的文本信息为【故事】
+2020-05-13 01:21:13,268 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:21:13,269 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:21:13,269 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:21:20,929 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:21:21,742 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:21:23,537 - common.log_utills - INFO - 浏览器刷新
+2020-05-13 01:21:23,552 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:21:23,584 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:21:23,596 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:21:23,635 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200320】
+2020-05-13 01:21:23,647 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:21:23,853 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:21:23,878 - common.log_utills - INFO - 弹窗提示值为：  登录失败，请检查您的用户名或密码是否填写正确。
+2020-05-13 01:21:23,893 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:21:23,893 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:21:32,145 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:21:32,984 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:21:34,729 - common.log_utills - INFO - 浏览器刷新
+2020-05-13 01:21:34,740 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:21:34,781 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:21:34,793 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:21:34,830 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:21:34,838 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:21:35,072 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:21:35,871 - common.log_utills - INFO - 用户名称：  元素识别成功
+2020-05-13 01:21:36,037 - common.log_utills - INFO - 用户名称：  对象的文本信息为【admin】
+2020-05-13 01:21:36,038 - common.log_utills - INFO - ==========测试类执行完毕==========
+2020-05-13 01:21:36,038 - common.log_utills - INFO - ==========测试类开始执行==========
+2020-05-13 01:21:36,038 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:21:36,039 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:21:43,763 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:21:44,553 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:21:44,566 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:21:44,600 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:21:44,613 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:21:44,656 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:21:44,668 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:21:44,901 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:21:45,618 - common.log_utills - INFO - 迭代：  元素识别成功
+2020-05-13 01:21:46,324 - common.log_utills - INFO - 迭代：  点击操作成功
+2020-05-13 01:21:46,349 - common.log_utills - INFO - 迭代-燃尽图：  元素识别成功
+2020-05-13 01:21:46,381 - common.log_utills - INFO - 迭代-燃尽图：  对象的文本信息为【燃尽图】
+2020-05-13 01:21:47,586 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:21:47,586 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:21:47,586 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:21:47,586 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:21:55,225 - common.log_utills - INFO - 浏览器最大化
+2020-05-13 01:21:56,078 - common.log_utills - INFO - 打开url地址：http://192.168.1.6/biz/user-login-L2Jpei8=.html
+2020-05-13 01:21:56,090 - common.log_utills - INFO - 用户名输入框：  元素识别成功
+2020-05-13 01:21:56,130 - common.log_utills - INFO - 用户名输入框：  输入内容【admin】
+2020-05-13 01:21:56,144 - common.log_utills - INFO - 密码输入框：  元素识别成功
+2020-05-13 01:21:56,188 - common.log_utills - INFO - 密码输入框：  输入内容【Py20200329】
+2020-05-13 01:21:56,201 - common.log_utills - INFO - 登录按钮：  元素识别成功
+2020-05-13 01:21:56,432 - common.log_utills - INFO - 登录按钮：  点击操作成功
+2020-05-13 01:21:57,126 - common.log_utills - INFO - 我的地盘：  元素识别成功
+2020-05-13 01:21:57,866 - common.log_utills - INFO - 我的地盘：  点击操作成功
+2020-05-13 01:21:57,924 - common.log_utills - INFO - 我的地盘-日程名称：  元素识别成功
+2020-05-13 01:21:57,947 - common.log_utills - INFO - 我的地盘-日程名称：  对象的文本信息为【日程】
+2020-05-13 01:21:59,138 - common.log_utills - INFO - 关闭当前页面
+2020-05-13 01:21:59,138 - common.log_utills - INFO - ----------测试方法开始完毕----------
+2020-05-13 01:21:59,138 - common.log_utills - INFO - ----------测试方法开始执行----------
+2020-05-13 01:21:59,138 - common.log_utills - INFO - 初始化浏览器并启动火狐浏览器
+2020-05-13 01:22:07,441 - common.log_utills - INFO - 浏览器最大化

@@ -23,16 +23,62 @@ class MainPage(BasePage):
         self.forget_password_password1 = elements['forget_password_password1']
         self.forget_password_password2 = elements['forget_password_password2']
         self.forget_password_save_button = elements['forget_password_save_button']
+        self.story_name = elements['story_name']
+
+        self.scedule_name = elements['scedule_name']
+        self.iterate_menu = elements['iterate_menu']
+        self.burndown_chart = elements['burndown_chart']
+
+        self.test_menu = elements['test_menu']
+        self.test_list = elements['test_list']
+        self.ops_menu = elements['ops_menu']
+        self.engine_room = elements['engine_room']
+        self.office_menu = elements['office_menu']
+        self.attendance = elements['attendance']
 
     def get_company_name(self):
         value = self.get_attribute(self.company_show_box)
         return value
 
+    def get_scedule_name(self):
+        value = self.get_text(self.scedule_name)
+        return value
+
+    def get_test_list(self):
+        value = self.get_text(self.test_list)
+        return value
+    def get_engine_room(self):
+        value = self.get_text(self.engine_room)
+        return value
+    def get_attendance(self):
+        value = self.get_text(self.attendance)
+        return value
+
+    def get_story_name(self):
+        value = self.get_text(self.story_name)
+        return value
+
+    def get_burndown_chart(self):
+        value = self.get_text(self.burndown_chart)
+        return value
+
     def goto_myzone(self):
         self.click(self.my_zone_menu)
 
+    def goto_test_menu(self):
+        self.click(self.test_menu)
+
+    def goto_ops_menu(self):
+        self.click(self.ops_menu)
+
+    def goto_office_menu(self):
+        self.click(self.office_menu)
+
     def goto_product(self):
         self.click(self.product_menu)
+
+    def goto_iterate(self):
+        self.click(self.iterate_menu)
 
     def get_user_name(self):
         text = self.get_text(self.username_show_span)
@@ -79,5 +125,9 @@ if __name__ == '__main__':
     # # 测试用例九：修改密码
     # main_page.change_password(config.password, config.password, config.password)
     # 测试用例十： 签退
-    main_page.logout()
+    # main_page.logout()
+
+    main_page.goto_product()
+    scedule_name = main_page.get_story_name()
+
     driver.close()
